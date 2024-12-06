@@ -2,8 +2,6 @@ import React from 'react';
 import { MdOutlineFileUpload } from 'react-icons/md';
 
 export default function FileUpload({ setBrands }) {
-    console.log("setBrands:", setBrands); // Debugging: Check if setBrands is passed correctly
-
     const handleFileUpload = (event) => {
         const file = event.target.files[0];
         if (!file) return;
@@ -16,7 +14,7 @@ export default function FileUpload({ setBrands }) {
             const brandSet = new Set();
 
             rows.forEach((row, index) => {
-                if (index === 0) return; // Skip the header row
+                if (index === 0) return;
                 const columns = row.split(',');
 
                 const brand = columns[0]?.trim();
@@ -26,7 +24,7 @@ export default function FileUpload({ setBrands }) {
                 }
             });
 
-            setBrands([...brandSet]); // Use setBrands correctly
+            setBrands([...brandSet]);
         };
 
         reader.readAsText(file);
