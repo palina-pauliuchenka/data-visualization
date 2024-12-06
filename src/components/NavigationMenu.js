@@ -7,7 +7,7 @@ function NavigationMenu({ brands = [] }) { // Default value for brands
     return (
         <>
             <nav className={"flex items-center p-4 shadow-lg"}>
-                <h2 className={"flex-grow-0 whitespace-nowrap mr-4"}>CS450 - Group 7</h2>
+                <h2 className={"flex-grow-0 whitespace-nowrap mr-4 font-bold"}>CS450 - Group 7</h2>
 
                 <div className={"flex items-center justify-between w-full"}>
                     <ul>
