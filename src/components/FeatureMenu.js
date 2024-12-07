@@ -1,24 +1,29 @@
 import React from 'react';
 import { useSharedState } from './SharedStateProvider';
 
-function FeatureMenu() {
-    const { columns } = useSharedState();
+export default function FeatureMenu() {
+    const { columns } = useSharedState(); // Access shared state for columns
+
+    // Map CSV headers to display names
+    const displayMapping = {
+        phone_model: 'Model',
+        price: 'Cost',
+    };
+
+    // Filter and map columns to only show the required features
+    const filteredFeatures = columns
+        .filter((col) => ['phone_model', 'price'].includes(col.toLowerCase()))
+        .map((col) => displayMapping[col] || col);
 
     return (
-        <div className="p-4">
-            <nav>
-                <ul className="flex flex-col gap-4">
-                    {columns.length > 0 ? (
-                        columns.map((column, index) => (
-                            <li key={index}>{column}</li>
-                        ))
-                    ) : (
-                        <li>No features available</li>
-                    )}
-                </ul>
-            </nav>
-        </div>
+        <nav className="p-4">
+            <ul className="flex flex-col gap-4">
+                {filteredFeatures.map((feature, index) => (
+                    <li key={index} className="text-sm font-medium">
+                        {feature}
+                    </li>
+                ))}
+            </ul>
+        </nav>
     );
 }
-
-export default FeatureMenu;

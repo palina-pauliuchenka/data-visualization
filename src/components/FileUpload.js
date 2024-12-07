@@ -1,3 +1,44 @@
+// const columnMappings = {
+//     phone_brand: 'brands',
+//     brand: 'brands',
+// };
+//
+// const handleFileUpload = (event) => {
+//     const file = event.target.files[0];
+//     if (!file) return;
+//
+//     const reader = new FileReader();
+//
+//     reader.onload = (e) => {
+//         const text = e.target.result;
+//         const rows = text.split('\n');
+//         const headerRow = rows[0]?.split(',').map((col) => col.trim()) || [];
+//
+//         // Extract brands column index
+//         const brandIndex = headerRow.findIndex((col) =>
+//             ['phone_brand', 'brand'].includes(col.toLowerCase())
+//         );
+//
+//         const extractedBrands = [];
+//         if (brandIndex !== -1) {
+//             rows.slice(1).forEach((row) => {
+//                 const columns = row.split(',');
+//                 const brand = columns[brandIndex]?.trim();
+//                 if (brand) {
+//                     extractedBrands.push(brand);
+//                 }
+//             });
+//         }
+//
+//         setBrands([...new Set(extractedBrands)]); // Remove duplicates
+//     };
+//
+//     reader.readAsText(file);
+// };
+
+
+
+
 import React from 'react';
 import { MdOutlineFileUpload } from 'react-icons/md';
 import { useSharedState } from './SharedStateProvider';
