@@ -1,34 +1,26 @@
+// App.js
 import React from 'react';
 import NavigationMenu from './components/NavigationMenu';
 import FeatureMenu from './components/FeatureMenu';
-import FileUpload from './components/FileUpload';
 import { SharedStateProvider } from './components/SharedStateProvider';
 
+import Dashboard from "./components/Dashboard";
+
 function App() {
+
     return (
         <SharedStateProvider>
-            <div>
-                <NavigationMenu />
-                <FeatureMenu />
-            </div>
+            <NavigationMenu />
+            <main className={"flex"}>
+                <aside className={""}>
+                    <FeatureMenu />
+                </aside>
+                <section id={"dashboard"} className={"flex-1 p-8"}>
+                    <Dashboard />
+                </section>
+            </main>
         </SharedStateProvider>
     );
 }
 
 export default App;
-
-
-// import './App.css';
-// import NavigationMenu from './components/NavigationMenu';
-// import FeatureMenu from './components/FeatureMenu';
-//
-// function App() {
-//   return (
-//       <>
-//           <NavigationMenu />
-//           <FeatureMenu />
-//       </>
-//   );
-// }
-//
-// export default App;
