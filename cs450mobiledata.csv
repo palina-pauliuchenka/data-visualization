@@ -1,0 +1,1200 @@
+phone_brand,phone_model,price_USD,storage,ram,Weight,Display_Size,OS,NFC,BATTERY,PPI_Density,Chipset,Foldable
+apple,Apple iPhone X,231.73,256,3,174.0,5.8,iOS 11.1.1,1,2716,458,Apple,0
+apple,Apple iPhone X,162.9,256,3,174.0,5.8,iOS 11.1.1,1,2716,458,Apple,0
+samsung,Samsung Galaxy S9+,127.69,64,6,189.0,6.2,Android 8.0 (Oreo),1,3500,529,Exynos,0
+samsung,Samsung Galaxy S9+,302.32,128,6,189.0,6.2,Android 8.0 (Oreo),1,3500,529,Exynos,0
+samsung,Samsung Galaxy S9+,334.88,256,6,189.0,6.2,Android 8.0 (Oreo),1,3500,529,Exynos,0
+samsung,Samsung Galaxy S9+,219.22,64,6,189.0,6.2,Android 8.0 (Oreo),1,3500,529,Exynos,0
+samsung,Samsung Galaxy S9+,148.44,128,6,189.0,6.2,Android 8.0 (Oreo),1,3500,529,Exynos,0
+samsung,Samsung Galaxy S9+,975.74,64,6,189.0,6.2,Android 8.0 (Oreo),1,3500,529,Exynos,0
+samsung,Samsung Galaxy S9,144.12,128,4,163.0,5.8,Android 8.0 (Oreo),1,3000,570,Exynos,0
+samsung,Samsung Galaxy S9,240.54,256,4,163.0,5.8,Android 8.0 (Oreo),1,3000,570,Exynos,0
+samsung,Samsung Galaxy S9,130.0,128,4,163.0,5.8,Android 8.0 (Oreo),1,3000,570,Exynos,0
+samsung,Samsung Galaxy S9,128.14,128,4,163.0,5.8,Android 8.0 (Oreo),1,3000,570,Exynos,0
+samsung,Samsung Galaxy S9,403.3,256,4,163.0,5.8,Android 8.0 (Oreo),1,3000,570,Exynos,0
+apple,Apple iPhone XS Max,269.47,256,4,208.0,6.5,iOS 12,1,3174,458,Apple,0
+apple,Apple iPhone XS Max,305.89,512,4,208.0,6.5,iOS 12,1,3174,458,Apple,0
+apple,Apple iPhone XS,201.55,256,4,177.0,5.8,iOS 12,1,2658,458,Apple,0
+apple,Apple iPhone XS,292.57,512,4,177.0,5.8,iOS 12,1,2658,458,Apple,0
+apple,Apple iPhone XS Max,219.28,256,4,208.0,6.5,iOS 12,1,3174,458,Apple,0
+apple,Apple iPhone XS Max,279.49,512,4,208.0,6.5,iOS 12,1,3174,458,Apple,0
+apple,Apple iPhone XS,172.65,256,4,177.0,5.8,iOS 12,1,2658,458,Apple,0
+apple,Apple iPhone XS,193.0,512,4,177.0,5.8,iOS 12,1,2658,458,Apple,0
+apple,Apple iPhone XS Max,200.35,256,4,208.0,6.5,iOS 12,1,3174,458,Apple,0
+apple,Apple iPhone XS Max,257.09,512,4,208.0,6.5,iOS 12,1,3174,458,Apple,0
+apple,Apple iPhone XS,191.57,256,4,177.0,5.8,iOS 12,1,2658,458,Apple,0
+apple,Apple iPhone XS,270.59,512,4,177.0,5.8,iOS 12,1,2658,458,Apple,0
+apple,Apple iPhone XR,214.56,128,3,194.0,6.1,iOS 12,1,2942,326,Apple,0
+apple,Apple iPhone XR,215.64,256,3,194.0,6.1,iOS 12,1,2942,326,Apple,0
+apple,Apple iPhone XR,160.0,128,3,194.0,6.1,iOS 12,1,2942,326,Apple,0
+apple,Apple iPhone XR,187.99,256,3,194.0,6.1,iOS 12,1,2942,326,Apple,0
+apple,Apple iPhone XR,186.0,128,3,194.0,6.1,iOS 12,1,2942,326,Apple,0
+apple,Apple iPhone XR,175.64,256,3,194.0,6.1,iOS 12,1,2942,326,Apple,0
+samsung,Samsung Galaxy S10e,292.56,128,8,150.0,5.8,Android 9.0 (Pie),1,3100,438,Exynos,0
+samsung,Samsung Galaxy S10e,346.74,256,8,150.0,5.8,Android 9.0 (Pie),1,3100,438,Exynos,0
+samsung,Samsung Galaxy S10,193.95,512,8,157.0,6.1,Android 9.0 (Pie),1,3400,550,Exynos,0
+samsung,Samsung Galaxy S10+,172.76,128,8,175.0,6.4,Android 9.0 (Pie),1,4100,522,Exynos,0
+samsung,Samsung Galaxy S10+,266.13,512,8,175.0,6.4,Android 9.0 (Pie),1,4100,522,Exynos,0
+samsung,Samsung Galaxy S10e,121.77,128,8,150.0,5.8,Android 9.0 (Pie),1,3100,438,Exynos,0
+samsung,Samsung Galaxy S10e,144.5,256,8,150.0,5.8,Android 9.0 (Pie),1,3100,438,Exynos,0
+samsung,Samsung Galaxy S10,169.99,128,8,157.0,6.1,Android 9.0 (Pie),1,3400,550,Exynos,0
+samsung,Samsung Galaxy S10,259.0,512,8,157.0,6.1,Android 9.0 (Pie),1,3400,550,Exynos,0
+samsung,Samsung Galaxy S10+,170.0,128,8,175.0,6.4,Android 9.0 (Pie),1,4100,522,Exynos,0
+samsung,Samsung Galaxy S10+,485.99,512,8,175.0,6.4,Android 9.0 (Pie),1,4100,522,Exynos,0
+samsung,Samsung Galaxy S10+,489.0,1000,12,175.0,6.4,Android 9.0 (Pie),1,4100,522,Exynos,0
+samsung,Samsung Galaxy S10e,160.02,128,8,150.0,5.8,Android 9.0 (Pie),1,3100,438,Exynos,0
+samsung,Samsung Galaxy S10,175.64,512,8,157.0,6.1,Android 9.0 (Pie),1,3400,550,Exynos,0
+samsung,Samsung Galaxy S10+,364.28,128,8,175.0,6.4,Android 9.0 (Pie),1,4100,522,Exynos,0
+samsung,Samsung Galaxy S10+,389.0,512,8,175.0,6.4,Android 9.0 (Pie),1,4100,522,Exynos,0
+samsung,Samsung Galaxy Note10+,424.48,512,12,196.0,6.8,Android 9.0 (Pie),1,4300,498,Exynos,0
+samsung,Samsung Galaxy Note10+,278.0,512,12,196.0,6.8,Android 9.0 (Pie),1,4300,498,Exynos,0
+samsung,Samsung Galaxy Note10+,413.72,512,12,196.0,6.8,Android 9.0 (Pie),1,4300,498,Exynos,0
+apple,Apple iPhone 11,265.48,128,4,194.0,6.1,iOS 13,1,3110,326,Apple,0
+apple,Apple iPhone 11,306.65,256,4,194.0,6.1,iOS 13,1,3110,326,Apple,0
+apple,Apple iPhone 11 Pro,304.49,256,4,188.0,5.8,iOS 13,1,3046,458,Apple,0
+apple,Apple iPhone 11 Pro,378.58,512,4,188.0,5.8,iOS 13,1,3046,458,Apple,0
+apple,Apple iPhone 11 Pro Max,391.93,256,4,226.0,6.5,iOS 13,1,3969,458,Apple,0
+apple,Apple iPhone 11 Pro Max,423.68,512,4,226.0,6.5,iOS 13,1,3969,458,Apple,0
+apple,Apple iPhone 11,208.0,128,4,194.0,6.1,iOS 13,1,3110,326,Apple,0
+apple,Apple iPhone 11,239.0,256,4,194.0,6.1,iOS 13,1,3110,326,Apple,0
+apple,Apple iPhone 11 Pro,259.9,256,4,188.0,5.8,iOS 13,1,3046,458,Apple,0
+apple,Apple iPhone 11 Pro,249.0,512,4,188.0,5.8,iOS 13,1,3046,458,Apple,0
+apple,Apple iPhone 11 Pro Max,285.0,256,4,226.0,6.5,iOS 13,1,3969,458,Apple,0
+apple,Apple iPhone 11 Pro Max,341.96,512,4,226.0,6.5,iOS 13,1,3969,458,Apple,0
+apple,Apple iPhone 11,250.1,128,4,194.0,6.1,iOS 13,1,3110,326,Apple,0
+apple,Apple iPhone 11,247.19,256,4,194.0,6.1,iOS 13,1,3110,326,Apple,0
+apple,Apple iPhone 11 Pro,270.99,256,4,188.0,5.8,iOS 13,1,3046,458,Apple,0
+apple,Apple iPhone 11 Pro,320.83,512,4,188.0,5.8,iOS 13,1,3046,458,Apple,0
+apple,Apple iPhone 11 Pro Max,330.45,256,4,226.0,6.5,iOS 13,1,3969,458,Apple,0
+apple,Apple iPhone 11 Pro Max,364.21,512,4,226.0,6.5,iOS 13,1,3969,458,Apple,0
+oneplus,OnePlus 7T,154.95,256,8,190.0,6.55,Android 10,1,3800,402,Qualcomm,0
+oneplus,OnePlus 7T,129.9,256,8,190.0,6.55,Android 10,1,3800,402,Qualcomm,0
+oneplus,OnePlus 7T,160.02,256,8,190.0,6.55,Android 10,1,3800,402,Qualcomm,0
+google,Google Pixel 4 XL,199.17,128,6,193.0,6.3,Android 10,1,3700,537,Qualcomm,0
+google,Google Pixel 4,162.96,128,6,162.0,5.7,Android 10,1,2800,444,Qualcomm,0
+google,Google Pixel 4 XL,121.99,128,6,193.0,6.3,Android 10,1,3700,537,Qualcomm,0
+google,Google Pixel 4 XL,599.99,128,6,193.0,6.3,Android 10,1,3700,537,Qualcomm,0
+google,Google Pixel 4,107.99,128,6,162.0,5.7,Android 10,1,2800,444,Qualcomm,0
+google,Google Pixel 4 XL,198.39,128,6,193.0,6.3,Android 10,1,3700,537,Qualcomm,0
+google,Google Pixel 4,126.2,128,6,162.0,5.7,Android 10,1,2800,444,Qualcomm,0
+samsung,Samsung Galaxy A51,202.72,128,4,172.0,6.5,Android 10,1,4000,405,Exynos,0
+samsung,Samsung Galaxy A51,166.12,128,6,172.0,6.5,Android 10,1,4000,405,Exynos,0
+samsung,Samsung Galaxy A51,122.64,128,4,172.0,6.5,Android 10,1,4000,405,Exynos,0
+samsung,Samsung Galaxy A51,132.64,128,4,172.0,6.5,Android 10,1,4000,405,Exynos,0
+samsung,Samsung Galaxy A71,140.2,128,8,179.0,6.7,Android 10,1,4500,393,Qualcomm,0
+samsung,Samsung Galaxy A71,159.07,128,8,179.0,6.7,Android 10,1,4500,393,Qualcomm,0
+samsung,Samsung Galaxy A71,162.61,128,8,179.0,6.7,Android 10,1,4500,393,Qualcomm,0
+xiaomi,Xiaomi Mi 10 5G,310.78,256,6,208.0,6.67,Android 10,1,4780,386,Qualcomm,0
+xiaomi,Xiaomi Mi 10 5G,346.74,256,8,208.0,6.67,Android 10,1,4780,386,Qualcomm,0
+xiaomi,Xiaomi Mi 10 5G,333.68,256,6,208.0,6.67,Android 10,1,4780,386,Qualcomm,0
+xiaomi,Xiaomi Mi 10 5G,390.79,256,8,208.0,6.67,Android 10,1,4780,386,Qualcomm,0
+samsung,Samsung Galaxy S20 5G,378.18,128,12,163.0,6.2,Android 10,1,4000,563,Exynos,0
+samsung,Samsung Galaxy S20 Ultra 5G,384.67,256,12,222.0,6.9,Android 10,1,5000,511,Exynos,0
+samsung,Samsung Galaxy S20 Ultra 5G,540.72,512,16,222.0,6.9,Android 10,1,5000,511,Exynos,0
+samsung,Samsung Galaxy S20+ 5G,431.26,128,12,188.0,6.7,Android 10,1,4500,525,Exynos,0
+samsung,Samsung Galaxy S20+ 5G,606.81,256,12,188.0,6.7,Android 10,1,4500,525,Exynos,0
+samsung,Samsung Galaxy S20 5G,169.79,128,12,163.0,6.2,Android 10,1,4000,563,Exynos,0
+samsung,Samsung Galaxy S20 Ultra 5G,231.74,256,12,222.0,6.9,Android 10,1,5000,511,Exynos,0
+samsung,Samsung Galaxy S20+ 5G,196.0,128,12,188.0,6.7,Android 10,1,4500,525,Exynos,0
+samsung,Samsung Galaxy S20+ 5G,270.0,256,12,188.0,6.7,Android 10,1,4500,525,Exynos,0
+samsung,Samsung Galaxy S20+ 5G,409.98,512,12,188.0,6.7,Android 10,1,4500,525,Exynos,0
+samsung,Samsung Galaxy S20 5G,240.67,128,12,163.0,6.2,Android 10,1,4000,563,Exynos,0
+samsung,Samsung Galaxy S20 Ultra 5G,307.71,256,12,222.0,6.9,Android 10,1,5000,511,Exynos,0
+samsung,Samsung Galaxy S20+ 5G,493.08,128,12,188.0,6.7,Android 10,1,4500,525,Exynos,0
+oneplus,OnePlus 8 Pro,210.71,256,12,199.0,6.78,Android 10,1,4510,513,Qualcomm,0
+oneplus,OnePlus 8 Pro,425.0,256,12,199.0,6.78,Android 10,1,4510,513,Qualcomm,0
+oneplus,OnePlus 8,897.0,128,8,180.0,6.55,Android 10,1,4300,402,Qualcomm,0
+oneplus,OnePlus 8,499.95,256,12,180.0,6.55,Android 10,1,4300,402,Qualcomm,0
+oneplus,OnePlus 8 Pro,273.21,256,12,199.0,6.78,Android 10,1,4510,513,Qualcomm,0
+apple,Apple iPhone SE (2020),158.21,128,3,148.0,4.7,iOS 13,1,1821,326,Apple,0
+apple,Apple iPhone SE (2020),190.71,256,3,148.0,4.7,iOS 13,1,1821,326,Apple,0
+apple,Apple iPhone SE (2020),99.64,128,3,148.0,4.7,iOS 13,1,1821,326,Apple,0
+apple,Apple iPhone SE (2020),130.72,256,3,148.0,4.7,iOS 13,1,1821,326,Apple,0
+apple,Apple iPhone SE (2020),122.29,128,3,148.0,4.7,iOS 13,1,1821,326,Apple,0
+apple,Apple iPhone SE (2020),151.89,256,3,148.0,4.7,iOS 13,1,1821,326,Apple,0
+samsung,Samsung Galaxy A31,193.96,128,4,185.0,6.4,Android 10,1,5000,411,Mediatek,0
+samsung,Samsung Galaxy A31,182.13,128,4,185.0,6.4,Android 10,1,5000,411,Mediatek,0
+samsung,Samsung Galaxy A31,246.53,128,6,185.0,6.4,Android 10,1,5000,411,Mediatek,0
+samsung,Samsung Galaxy A51 5G,193.96,128,8,187.0,6.5,Android 10,1,4500,405,Exynos,0
+samsung,Samsung Galaxy A51 5G,106.83,128,8,187.0,6.5,Android 10,1,4500,405,Exynos,0
+samsung,Samsung Galaxy A51 5G,156.05,128,8,187.0,6.5,Android 10,1,4500,405,Exynos,0
+xiaomi,Xiaomi Redmi Note 9S,119.19,128,4,209.0,6.67,Android 10,0,5020,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 9S,129.16,128,4,209.0,6.67,Android 10,0,5020,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 9S,448.84,128,6,209.0,6.67,Android 10,0,5020,395,Qualcomm,0
+samsung,Samsung Galaxy M11,120.27,64,4,197.0,6.4,Android 10,0,5000,268,Qualcomm,0
+samsung,Samsung Galaxy M11,225.07,64,4,197.0,6.4,Android 10,0,5000,268,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 9 Pro,187.45,128,6,209.0,6.67,Android 10,1,5020,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 9 Pro,182.14,128,6,209.0,6.67,Android 10,1,5020,395,Qualcomm,0
+xiaomi,Xiaomi Mi Note 10 Lite,140.08,128,6,204.0,6.47,Android 10,1,5260,398,Qualcomm,0
+xiaomi,Xiaomi Mi Note 10 Lite,312.23,128,6,204.0,6.47,Android 10,1,5260,398,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 9,126.48,64,4,199.0,6.53,Android 10,1,5020,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 9,118.51,128,4,199.0,6.53,Android 10,1,5020,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 9,169.12,64,4,199.0,6.53,Android 10,1,5020,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 9,364.28,128,4,199.0,6.53,Android 10,1,5020,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 9,125.99,64,4,199.0,6.53,Android 10,1,5020,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 9,85.5,128,4,199.0,6.53,Android 10,1,5020,395,Mediatek,0
+xiaomi,Xiaomi Poco F2 Pro,197.67,256,8,219.0,6.67,Android 10,1,4700,395,Qualcomm,0
+xiaomi,Xiaomi Poco F2 Pro,489.29,256,8,219.0,6.67,Android 10,1,4700,395,Qualcomm,0
+xiaomi,Xiaomi Redmi 9,119.19,64,4,198.0,6.53,Android 10,1,5020,395,Mediatek,0
+xiaomi,Xiaomi Redmi 9,130.02,128,4,198.0,6.53,Android 10,1,5020,395,Mediatek,0
+xiaomi,Xiaomi Redmi 9,146.65,64,4,198.0,6.53,Android 10,1,5020,395,Mediatek,0
+xiaomi,Xiaomi Redmi 9,139.99,128,4,198.0,6.53,Android 10,1,5020,395,Mediatek,0
+xiaomi,Xiaomi Redmi 9,255.8,64,4,198.0,6.53,Android 10,1,5020,395,Mediatek,0
+xiaomi,Xiaomi Redmi 9,139.6,128,4,198.0,6.53,Android 10,1,5020,395,Mediatek,0
+xiaomi,Xiaomi Redmi 9,66.11,64,4,198.0,6.53,Android 10,1,5020,395,Mediatek,0
+xiaomi,Xiaomi Redmi 9,125.56,128,4,198.0,6.53,Android 10,1,5020,395,Mediatek,0
+samsung,Samsung Galaxy A71 5G,151.08,128,8,185.0,6.7,Android 10,1,4500,393,Exynos,0
+samsung,Samsung Galaxy A71 5G,154.82,128,8,185.0,6.7,Android 10,1,4500,393,Exynos,0
+xiaomi,Xiaomi Redmi 9A,66.58,32,3,196.0,6.53,Android 10,0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi 9A,102.12,32,3,196.0,6.53,Android 10,0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi 9A,86.25,32,3,196.0,6.53,Android 10,0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi 9A,52.63,64,4,196.0,6.53,Android 10,0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi 9A,71.1,128,4,196.0,6.53,Android 10,0,5000,269,Mediatek,0
+oneplus,OnePlus Nord,173.37,128,8,184.0,6.44,Android 10,1,4115,408,Qualcomm,0
+oneplus,OnePlus Nord,213.7,256,12,184.0,6.44,Android 10,1,4115,408,Qualcomm,0
+oneplus,OnePlus Nord,199.99,128,8,184.0,6.44,Android 10,1,4115,408,Qualcomm,0
+oneplus,OnePlus Nord,160.02,128,8,184.0,6.44,Android 10,1,4115,408,Qualcomm,0
+oneplus,OnePlus Nord,254.98,256,12,184.0,6.44,Android 10,1,4115,408,Qualcomm,0
+xiaomi,Xiaomi Redmi 9C,91.55,32,3,196.0,6.53,Android 10,0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi 9C,111.06,64,3,196.0,6.53,Android 10,0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi 9C,119.99,32,3,196.0,6.53,Android 10,0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi 9C,118.79,64,3,196.0,6.53,Android 10,0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi 9C,85.99,64,4,196.0,6.53,Android 10,0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi 9C,84.55,32,3,196.0,6.53,Android 10,0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi 9C,101.46,64,3,196.0,6.53,Android 10,0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi 9C,163.87,64,4,196.0,6.53,Android 10,0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi 9C,64.8,32,3,196.0,6.53,Android 10,0,5000,269,Mediatek,0
+samsung,Samsung Galaxy Note20 5G,465.45,256,8,192.0,6.7,Android 10,1,4300,393,Exynos,0
+samsung,Samsung Galaxy Note20 Ultra 5G,731.43,256,8,208.0,6.9,Android 10,1,4500,496,Exynos,0
+samsung,Samsung Galaxy Note20 Ultra 5G,506.84,256,12,208.0,6.9,Android 10,1,4500,496,Exynos,0
+samsung,Samsung Galaxy Note20 5G,224.95,256,8,192.0,6.7,Android 10,1,4300,393,Exynos,0
+samsung,Samsung Galaxy Note20 Ultra 5G,314.18,256,8,208.0,6.9,Android 10,1,4500,496,Exynos,0
+samsung,Samsung Galaxy Note20 Ultra 5G,650.0,256,12,208.0,6.9,Android 10,1,4500,496,Exynos,0
+samsung,Samsung Galaxy Note20 Ultra 5G,779.46,512,12,208.0,6.9,Android 10,1,4500,496,Exynos,0
+samsung,Samsung Galaxy Note20 5G,910.69,256,8,192.0,6.7,Android 10,1,4300,393,Exynos,0
+samsung,Samsung Galaxy Note20 Ultra 5G,434.53,256,8,208.0,6.9,Android 10,1,4500,496,Exynos,0
+xiaomi,Xiaomi Poco X3 NFC,197.46,128,6,215.0,6.67,Android 10,1,5160,395,Qualcomm,0
+samsung,Samsung Galaxy S20 FE 5G,325.07,128,8,190.0,6.5,Android 10,1,4500,407,Qualcomm,0
+samsung,Samsung Galaxy S20 FE 5G,119.99,128,8,190.0,6.5,Android 10,1,4500,407,Qualcomm,0
+samsung,Samsung Galaxy S20 FE 5G,479.97,256,8,190.0,6.5,Android 10,1,4500,407,Qualcomm,0
+samsung,Samsung Galaxy S20 FE 5G,195.14,128,8,190.0,6.5,Android 10,1,4500,407,Qualcomm,0
+xiaomi,Xiaomi Mi 10T Pro 5G,162.53,256,8,218.0,6.67,Android 10,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Mi 10T 5G,269.82,128,8,216.0,6.67,Android 10,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Mi 10T Pro 5G,321.39,256,8,218.0,6.67,Android 10,1,5000,395,Qualcomm,0
+oneplus,OnePlus 8T,190.18,256,12,188.0,6.55,Android 11,1,4500,402,Qualcomm,0
+oneplus,OnePlus 8T,219.95,256,12,188.0,6.55,Android 11,1,4500,402,Qualcomm,0
+oneplus,OnePlus 8T,312.17,256,12,188.0,6.55,Android 11,1,4500,402,Qualcomm,0
+apple,Apple iPhone 12,326.16,128,4,164.0,6.1,iOS 14.1,1,2815,460,Apple,0
+apple,Apple iPhone 12,377.09,256,4,164.0,6.1,iOS 14.1,1,2815,460,Apple,0
+apple,Apple iPhone 12 Pro,459.45,256,6,189.0,6.1,iOS 14.1,1,2815,460,Apple,0
+apple,Apple iPhone 12 Pro,483.29,512,6,189.0,6.1,iOS 14.1,1,2815,460,Apple,0
+apple,Apple iPhone 12,249.99,128,4,164.0,6.1,iOS 14.1,1,2815,460,Apple,0
+apple,Apple iPhone 12,291.75,256,4,164.0,6.1,iOS 14.1,1,2815,460,Apple,0
+apple,Apple iPhone 12 Pro,357.55,256,6,189.0,6.1,iOS 14.1,1,2815,460,Apple,0
+apple,Apple iPhone 12 Pro,389.99,512,6,189.0,6.1,iOS 14.1,1,2815,460,Apple,0
+apple,Apple iPhone 12,317.44,128,4,164.0,6.1,iOS 14.1,1,2815,460,Apple,0
+apple,Apple iPhone 12,344.76,256,4,164.0,6.1,iOS 14.1,1,2815,460,Apple,0
+apple,Apple iPhone 12 Pro,421.32,256,6,189.0,6.1,iOS 14.1,1,2815,460,Apple,0
+apple,Apple iPhone 12 Pro,470.62,512,6,189.0,6.1,iOS 14.1,1,2815,460,Apple,0
+samsung,Samsung Galaxy A42 5G,314.23,128,6,193.0,6.6,Android 10,1,5000,266,Qualcomm,0
+samsung,Samsung Galaxy A42 5G,129.99,128,6,193.0,6.6,Android 10,1,5000,266,Qualcomm,0
+samsung,Samsung Galaxy A42 5G,180.18,128,6,193.0,6.6,Android 10,1,5000,266,Qualcomm,0
+apple,Apple iPhone 12 mini,248.14,128,4,135.0,5.4,iOS 14.1,1,2227,476,Apple,0
+apple,Apple iPhone 12 mini,320.75,256,4,135.0,5.4,iOS 14.1,1,2227,476,Apple,0
+apple,Apple iPhone 12 Pro Max,526.54,256,6,228.0,6.7,iOS 14.1,1,3687,458,Apple,0
+apple,Apple iPhone 12 Pro Max,628.49,512,6,228.0,6.7,iOS 14.1,1,3687,458,Apple,0
+apple,Apple iPhone 12 mini,208.0,128,4,135.0,5.4,iOS 14.1,1,2227,476,Apple,0
+apple,Apple iPhone 12 mini,241.64,256,4,135.0,5.4,iOS 14.1,1,2227,476,Apple,0
+apple,Apple iPhone 12 Pro Max,410.33,256,6,228.0,6.7,iOS 14.1,1,3687,458,Apple,0
+apple,Apple iPhone 12 Pro Max,500.0,512,6,228.0,6.7,iOS 14.1,1,3687,458,Apple,0
+apple,Apple iPhone 12 mini,253.04,128,4,135.0,5.4,iOS 14.1,1,2227,476,Apple,0
+apple,Apple iPhone 12 mini,294.68,256,4,135.0,5.4,iOS 14.1,1,2227,476,Apple,0
+apple,Apple iPhone 12 Pro Max,494.34,256,6,228.0,6.7,iOS 14.1,1,3687,458,Apple,0
+apple,Apple iPhone 12 Pro Max,548.88,512,6,228.0,6.7,iOS 14.1,1,3687,458,Apple,0
+xiaomi,Xiaomi Poco M3,160.0,64,6,198.0,6.53,Android 10,0,6000,395,Qualcomm,0
+xiaomi,Xiaomi Poco M3,152.99,128,4,198.0,6.53,Android 10,0,6000,395,Qualcomm,0
+xiaomi,Xiaomi Poco M3,130.09,64,6,198.0,6.53,Android 10,0,6000,395,Qualcomm,0
+samsung,Samsung Galaxy A12,197.54,32,3,205.0,6.5,Android 10,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A12,146.29,64,4,205.0,6.5,Android 10,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A12,124.79,128,3,205.0,6.5,Android 10,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A12,73.7,32,3,205.0,6.5,Android 10,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A12,144.0,64,4,205.0,6.5,Android 10,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A12,180.0,128,3,205.0,6.5,Android 10,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A12,104.07,32,3,205.0,6.5,Android 10,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A12,96.27,64,4,205.0,6.5,Android 10,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A12,156.12,128,3,205.0,6.5,Android 10,1,5000,270,Mediatek,0
+xiaomi,Xiaomi Mi 11,216.61,128,8,196.0,6.81,Android 11,1,4600,515,Qualcomm,0
+xiaomi,Xiaomi Mi 11,325.25,128,8,196.0,6.81,Android 11,1,4600,515,Qualcomm,0
+samsung,Samsung Galaxy A02s,140.86,32,2,196.0,6.5,Android 10,0,5000,270,Qualcomm,0
+samsung,Samsung Galaxy A02s,66.43,32,2,196.0,6.5,Android 10,0,5000,270,Qualcomm,0
+samsung,Samsung Galaxy A02s,117.09,32,2,196.0,6.5,Android 10,0,5000,270,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 9T,140.86,128,4,199.0,6.53,Android 10,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 9T,216.71,128,6,199.0,6.53,Android 10,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi 9T,109.43,128,4,198.0,6.53,Android 10,1,6000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 9T,150.8,128,4,199.0,6.53,Android 10,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 9T,454.05,128,6,199.0,6.53,Android 10,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi 9T,117.08,128,4,198.0,6.53,Android 10,1,6000,395,Qualcomm,0
+samsung,Samsung Galaxy A32 5G,108.36,128,4,205.0,6.5,Android 11,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A32 5G,140.1,128,6,205.0,6.5,Android 11,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A32 5G,64.57,128,4,205.0,6.5,Android 11,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A32 5G,365.99,128,6,205.0,6.5,Android 11,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A32 5G,136.6,128,4,205.0,6.5,Android 11,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A32 5G,201.66,128,6,205.0,6.5,Android 11,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A32 5G,247.18,128,8,205.0,6.5,Android 11,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A02,151.6,32,3,206.0,6.5,Android 10,0,5000,270,Mediatek,0
+samsung,Samsung Galaxy A02,259.96,32,4,206.0,6.5,Android 10,0,5000,270,Mediatek,0
+samsung,Samsung Galaxy A02,78.0,32,3,206.0,6.5,Android 10,0,5000,270,Mediatek,0
+samsung,Samsung Galaxy A02,119.99,32,4,206.0,6.5,Android 10,0,5000,270,Mediatek,0
+samsung,Samsung Galaxy A02,149.99,32,3,206.0,6.5,Android 10,0,5000,270,Mediatek,0
+samsung,Samsung Galaxy A02,127.5,32,3,206.0,6.5,Android 10,0,5000,270,Mediatek,0
+samsung,Samsung Galaxy S21 5G,317.49,256,8,169.0,6.2,Android 11,1,4000,421,Exynos,0
+samsung,Samsung Galaxy S21+ 5G,353.25,256,8,200.0,6.7,Android 11,1,4800,394,Exynos,0
+samsung,Samsung Galaxy S21 Ultra 5G,510.26,256,12,227.0,6.8,Android 11,1,5000,515,Exynos,0
+samsung,Samsung Galaxy S21 Ultra 5G,550.67,512,12,227.0,6.8,Android 11,1,5000,515,Exynos,0
+samsung,Samsung Galaxy S21 Ultra 5G,758.51,512,16,227.0,6.8,Android 11,1,5000,515,Exynos,0
+samsung,Samsung Galaxy S21 5G,187.15,256,8,169.0,6.2,Android 11,1,4000,421,Exynos,0
+samsung,Samsung Galaxy S21+ 5G,203.07,256,8,200.0,6.7,Android 11,1,4800,394,Exynos,0
+samsung,Samsung Galaxy S21+ 5G,679.0,256,8,200.0,6.7,Android 11,1,4800,394,Exynos,0
+samsung,Samsung Galaxy S21+ 5G,899.99,256,8,200.0,6.7,Android 11,1,4800,394,Exynos,0
+samsung,Samsung Galaxy S21 Ultra 5G,255.45,256,12,227.0,6.8,Android 11,1,5000,515,Exynos,0
+samsung,Samsung Galaxy S21 Ultra 5G,342.64,512,12,227.0,6.8,Android 11,1,5000,515,Exynos,0
+samsung,Samsung Galaxy S21 Ultra 5G,1499.0,512,16,227.0,6.8,Android 11,1,5000,515,Exynos,0
+samsung,Samsung Galaxy S21 5G,247.19,256,8,169.0,6.2,Android 11,1,4000,421,Exynos,0
+samsung,Samsung Galaxy S21+ 5G,234.11,256,8,200.0,6.7,Android 11,1,4800,394,Exynos,0
+samsung,Samsung Galaxy S21 Ultra 5G,362.94,256,12,227.0,6.8,Android 11,1,5000,515,Exynos,0
+samsung,Samsung Galaxy S21 Ultra 5G,331.74,512,12,227.0,6.8,Android 11,1,5000,515,Exynos,0
+samsung,Samsung Galaxy A32,267.48,128,4,184.0,6.4,Android 11,1,5000,411,Mediatek,0
+samsung,Samsung Galaxy A32,249.99,128,4,184.0,6.4,Android 11,1,5000,411,Mediatek,0
+samsung,Samsung Galaxy A32,160.24,128,6,184.0,6.4,Android 11,1,5000,411,Mediatek,0
+samsung,Samsung Galaxy A32,136.6,128,4,184.0,6.4,Android 11,1,5000,411,Mediatek,0
+xiaomi,Xiaomi Redmi Note 10,105.1,128,4,178.8,6.43,Android 11,0,5000,409,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 10,108.35,128,6,178.8,6.43,Android 11,0,5000,409,Qualcomm,0
+samsung,Samsung Galaxy A52 5G,344.57,128,8,189.0,6.5,Android 11,1,4500,407,Qualcomm,0
+samsung,Samsung Galaxy A52 5G,289.04,256,8,189.0,6.5,Android 11,1,4500,407,Qualcomm,0
+samsung,Samsung Galaxy A52 5G,139.7,128,8,189.0,6.5,Android 11,1,4500,407,Qualcomm,0
+samsung,Samsung Galaxy A52 5G,299.22,128,8,189.0,6.5,Android 11,1,4500,407,Qualcomm,0
+xiaomi,Xiaomi Poco X3 Pro,175.43,128,8,215.0,6.67,Android 11,1,5160,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 10 Pro,213.46,128,6,193.0,6.67,Android 11,1,5020,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 10 Pro,238.38,128,8,193.0,6.67,Android 11,1,5020,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 10 Pro,208.46,256,8,193.0,6.67,Android 11,1,5020,395,Qualcomm,0
+xiaomi,Xiaomi Poco X3 Pro,290.0,128,8,215.0,6.67,Android 11,1,5160,395,Qualcomm,0
+xiaomi,Xiaomi Poco X3 Pro,351.13,128,8,215.0,6.67,Android 11,1,5160,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 10 Pro,225.37,128,6,193.0,6.67,Android 11,1,5020,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 10 Pro,160.57,128,8,193.0,6.67,Android 11,1,5020,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 10 Pro,282.98,256,8,193.0,6.67,Android 11,1,5020,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 10 Pro,139.5,128,6,193.0,6.67,Android 11,1,5020,395,Qualcomm,0
+oneplus,OnePlus 9,137.43,256,12,192.0,6.55,Android 11,1,4500,402,Qualcomm,0
+samsung,Samsung Galaxy A52,321.83,128,6,189.0,6.5,Android 11,1,4500,407,Qualcomm,0
+samsung,Samsung Galaxy A52,171.8,128,8,189.0,6.5,Android 11,1,4500,407,Qualcomm,0
+samsung,Samsung Galaxy A52,541.8,256,6,189.0,6.5,Android 11,1,4500,407,Qualcomm,0
+samsung,Samsung Galaxy A72,398.75,128,8,203.0,6.7,Android 11,1,5000,394,Qualcomm,0
+samsung,Samsung Galaxy A72,465.94,256,6,203.0,6.7,Android 11,1,5000,394,Qualcomm,0
+oneplus,OnePlus 9,167.62,256,12,192.0,6.55,Android 11,1,4500,402,Qualcomm,0
+samsung,Samsung Galaxy A52,140.83,128,6,189.0,6.5,Android 11,1,4500,407,Qualcomm,0
+samsung,Samsung Galaxy A52,311.78,128,8,189.0,6.5,Android 11,1,4500,407,Qualcomm,0
+samsung,Samsung Galaxy A72,789.99,128,8,203.0,6.7,Android 11,1,5000,394,Qualcomm,0
+samsung,Samsung Galaxy A72,789.99,256,6,203.0,6.7,Android 11,1,5000,394,Qualcomm,0
+oneplus,OnePlus 9,377.22,256,12,192.0,6.55,Android 11,1,4500,402,Qualcomm,0
+samsung,Samsung Galaxy A52,186.04,128,6,189.0,6.5,Android 11,1,4500,407,Qualcomm,0
+samsung,Samsung Galaxy A52,179.54,128,8,189.0,6.5,Android 11,1,4500,407,Qualcomm,0
+samsung,Samsung Galaxy A52,650.49,256,6,189.0,6.5,Android 11,1,4500,407,Qualcomm,0
+samsung,Samsung Galaxy A72,290.12,128,8,203.0,6.7,Android 11,1,5000,394,Qualcomm,0
+samsung,Samsung Galaxy A72,604.96,256,6,203.0,6.7,Android 11,1,5000,394,Qualcomm,0
+xiaomi,Xiaomi Poco F3,198.7,128,8,196.0,6.67,Android 11,1,4520,395,Qualcomm,0
+xiaomi,Xiaomi Poco F3,179.99,128,8,196.0,6.67,Android 11,1,4520,395,Qualcomm,0
+oneplus,OnePlus 9 Pro,297.44,256,8,197.0,6.7,Android 11,1,4500,525,Qualcomm,0
+oneplus,OnePlus 9 Pro,203.81,256,12,197.0,6.7,Android 11,1,4500,525,Qualcomm,0
+oneplus,OnePlus 9 Pro,550.0,256,8,197.0,6.7,Android 11,1,4500,525,Qualcomm,0
+oneplus,OnePlus 9 Pro,292.71,256,8,197.0,6.7,Android 11,1,4500,525,Qualcomm,0
+oneplus,OnePlus 9 Pro,416.32,256,12,197.0,6.7,Android 11,1,4500,525,Qualcomm,0
+xiaomi,Xiaomi Mi 11 Pro,331.62,256,8,208.0,6.81,Android 11,1,5000,515,Qualcomm,0
+oneplus,OnePlus 9R,495.0,256,8,189.0,6.55,Android 10,1,4500,402,Qualcomm,0
+xiaomi,Xiaomi Mi 11 Lite,170.98,128,6,157.0,6.55,Android 11,1,4250,402,Qualcomm,0
+xiaomi,Xiaomi Mi 11 Lite,270.89,128,8,157.0,6.55,Android 11,1,4250,402,Qualcomm,0
+xiaomi,Xiaomi Mi 11 Lite 5G,260.52,128,6,159.0,6.55,Android 11,1,4250,402,Qualcomm,0
+xiaomi,Xiaomi Mi 11 Lite 5G,132.19,128,8,159.0,6.55,Android 11,1,4250,402,Qualcomm,0
+xiaomi,Xiaomi Mi 11 Lite,299.99,128,6,157.0,6.55,Android 11,1,4250,402,Qualcomm,0
+xiaomi,Xiaomi Mi 11 Lite 5G,249.99,128,6,159.0,6.55,Android 11,1,4250,402,Qualcomm,0
+xiaomi,Xiaomi Mi 11 Lite 5G,282.72,128,6,159.0,6.55,Android 11,1,4250,402,Qualcomm,0
+xiaomi,Xiaomi Mi 11 Lite 5G,175.62,128,8,159.0,6.55,Android 11,1,4250,402,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 10 5G,102.93,128,4,190.0,6.5,Android 11,1,5000,405,Mediatek,0
+xiaomi,Xiaomi Redmi Note 10 5G,194.68,128,6,190.0,6.5,Android 11,1,5000,405,Mediatek,0
+xiaomi,Xiaomi Redmi Note 10 5G,303.3,128,8,190.0,6.5,Android 11,1,5000,405,Mediatek,0
+xiaomi,Xiaomi Redmi Note 10S,166.86,128,4,178.8,6.43,Android 11,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Redmi Note 10S,173.37,128,6,178.8,6.43,Android 11,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Redmi Note 10S,161.0,128,4,178.8,6.43,Android 11,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Redmi Note 10 5G,218.57,128,4,190.0,6.5,Android 11,1,5000,405,Mediatek,0
+xiaomi,Xiaomi Redmi Note 10 5G,140.51,128,6,190.0,6.5,Android 11,1,5000,405,Mediatek,0
+xiaomi,Xiaomi Redmi Note 10S,184.9,128,4,178.8,6.43,Android 11,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Redmi Note 10S,175.62,128,6,178.8,6.43,Android 11,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Redmi Note 10S,156.0,128,4,178.8,6.43,Android 11,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Redmi Note 10S,145.35,128,6,178.8,6.43,Android 11,1,5000,409,Mediatek,0
+samsung,Samsung Galaxy M12,184.89,32,4,212.0,6.5,Android 11,1,5000,270,Exynos,0
+samsung,Samsung Galaxy M12,192.5,32,4,212.0,6.5,Android 11,1,5000,270,Exynos,0
+samsung,Samsung Galaxy M12,156.11,32,4,212.0,6.5,Android 11,1,5000,270,Exynos,0
+samsung,Samsung Galaxy M12,428.03,64,4,212.0,6.5,Android 11,1,5000,270,Exynos,0
+xiaomi,Xiaomi Poco M3 Pro 5G,173.37,128,6,190.0,6.5,Android 11,1,5000,405,Mediatek,0
+xiaomi,Xiaomi Poco M3 Pro 5G,251.73,128,6,190.0,6.5,Android 11,1,5000,405,Mediatek,0
+oneplus,OnePlus Nord CE 5G,249.22,128,8,170.0,6.43,Android 11,1,4500,410,Qualcomm,0
+oneplus,OnePlus Nord CE 5G,306.64,256,12,170.0,6.43,Android 11,1,4500,410,Qualcomm,0
+oneplus,OnePlus Nord CE 5G,363.95,128,8,170.0,6.43,Android 11,1,4500,410,Qualcomm,0
+samsung,Samsung Galaxy Tab A7 Lite,124.99,32,3,366.0,8.7,Android 11,0,5100,179,Mediatek,0
+samsung,Samsung Galaxy A22 5G,118.55,128,4,203.0,6.6,Android 11,1,5000,399,Mediatek,0
+samsung,Samsung Galaxy A22 5G,243.12,128,6,203.0,6.6,Android 11,1,5000,399,Mediatek,0
+samsung,Samsung Galaxy A22 5G,235.0,128,4,203.0,6.6,Android 11,1,5000,399,Mediatek,0
+samsung,Samsung Galaxy A22 5G,104.01,128,4,203.0,6.6,Android 11,1,5000,399,Mediatek,0
+samsung,Samsung Galaxy M32,239.09,128,6,180.0,6.4,Android 11,1,5000,411,Mediatek,0
+samsung,Samsung Galaxy M32,584.15,128,6,180.0,6.4,Android 11,1,5000,411,Mediatek,0
+samsung,Samsung Galaxy A22,133.04,128,4,186.0,6.4,Android 11,1,5000,274,Mediatek,0
+samsung,Samsung Galaxy A22,168.87,128,6,186.0,6.4,Android 11,1,5000,274,Mediatek,0
+samsung,Samsung Galaxy A22,195.14,128,4,186.0,6.4,Android 11,1,5000,274,Mediatek,0
+oneplus,OnePlus Nord 2 5G,280.65,128,8,189.0,6.43,Android 11,1,4500,409,Mediatek,0
+oneplus,OnePlus Nord 2 5G,411.76,256,12,189.0,6.43,Android 11,1,4500,409,Mediatek,0
+oneplus,OnePlus Nord 2 5G,185.0,128,8,189.0,6.43,Android 11,1,4500,409,Mediatek,0
+oneplus,OnePlus Nord 2 5G,405.0,256,12,189.0,6.43,Android 11,1,4500,409,Mediatek,0
+oneplus,OnePlus Nord 2 5G,241.99,128,8,189.0,6.43,Android 11,1,4500,409,Mediatek,0
+oneplus,OnePlus Nord 2 5G,481.98,256,12,189.0,6.43,Android 11,1,4500,409,Mediatek,0
+samsung,Samsung Galaxy A12 Nacho,132.01,32,4,205.0,6.5,Android 11,1,5000,270,Exynos,0
+samsung,Samsung Galaxy A12 Nacho,130.0,32,4,205.0,6.5,Android 11,1,5000,270,Exynos,0
+samsung,Samsung Galaxy A12 Nacho,182.13,32,4,205.0,6.5,Android 11,1,5000,270,Exynos,0
+samsung,Samsung Galaxy A03s,125.65,32,3,196.0,6.5,Android 11,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A03s,149.54,32,4,196.0,6.5,Android 11,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A03s,190.54,64,4,196.0,6.5,Android 11,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A03s,68.49,32,3,196.0,6.5,Android 11,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A03s,130.0,32,4,196.0,6.5,Android 11,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A03s,159.99,32,3,196.0,6.5,Android 11,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A03s,103.42,32,3,196.0,6.5,Android 11,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A03s,167.82,32,4,196.0,6.5,Android 11,1,5000,270,Mediatek,0
+xiaomi,Xiaomi Poco X3 GT,215.14,256,8,193.0,6.6,Android 11,1,5000,399,Mediatek,0
+xiaomi,Xiaomi Redmi 10,113.78,128,4,181.0,6.5,Android 11,1,5000,405,Mediatek,0
+xiaomi,Xiaomi Redmi 10,130.02,128,6,181.0,6.5,Android 11,1,5000,405,Mediatek,0
+xiaomi,Xiaomi Redmi 10,117.08,128,4,181.0,6.5,Android 11,1,5000,405,Mediatek,0
+xiaomi,Xiaomi Redmi 10,130.09,128,6,181.0,6.5,Android 11,1,5000,405,Mediatek,0
+samsung,Samsung Galaxy Z Fold3 5G,552.64,512,12,271.0,7.6,Android 11,1,4400,374,Qualcomm,1
+samsung,Samsung Galaxy Z Flip3 5G,348.92,256,8,183.0,6.7,Android 11,1,3300,426,Qualcomm,1
+samsung,Samsung Galaxy Z Fold3 5G,399.95,512,12,271.0,7.6,Android 11,1,4400,374,Qualcomm,1
+samsung,Samsung Galaxy Z Fold3 5G,1799.99,512,12,271.0,7.6,Android 11,1,4400,374,Qualcomm,1
+samsung,Samsung Galaxy Z Flip3 5G,244.95,256,8,183.0,6.7,Android 11,1,3300,426,Qualcomm,1
+samsung,Samsung Galaxy Z Flip3 5G,999.99,256,8,183.0,6.7,Android 11,1,3300,426,Qualcomm,1
+samsung,Samsung Galaxy Z Fold3 5G,492.75,512,12,271.0,7.6,Android 11,1,4400,374,Qualcomm,1
+samsung,Samsung Galaxy Z Flip3 5G,313.54,256,8,183.0,6.7,Android 11,1,3300,426,Qualcomm,1
+samsung,Samsung Galaxy A52s 5G,211.65,128,6,189.0,6.5,Android 11,1,4500,405,Qualcomm,0
+samsung,Samsung Galaxy A52s 5G,399.99,128,6,189.0,6.5,Android 11,1,4500,405,Qualcomm,0
+samsung,Samsung Galaxy A52s 5G,167.83,128,6,189.0,6.5,Android 11,1,4500,405,Qualcomm,0
+apple,Apple iPhone 13 mini,428.56,256,4,141.0,5.4,iOS 15,1,2438,476,Apple,0
+apple,Apple iPhone 13 mini,469.2,512,4,141.0,5.4,iOS 15,1,2438,476,Apple,0
+apple,Apple iPhone 13 Pro Max,709.76,256,6,240.0,6.7,iOS 15,1,4352,458,Apple,0
+apple,Apple iPhone 13 Pro Max,735.29,512,6,240.0,6.7,iOS 15,1,4352,458,Apple,0
+apple,Apple iPhone 13 Pro Max,816.83,1000,6,240.0,6.7,iOS 15,1,4352,458,Apple,0
+apple,Apple iPhone 13,468.01,256,4,174.0,6.1,iOS 15,1,3240,460,Apple,0
+apple,Apple iPhone 13,540.72,512,4,174.0,6.1,iOS 15,1,3240,460,Apple,0
+apple,Apple iPhone 13 Pro,612.03,256,6,204.0,6.1,iOS 15,1,3095,460,Apple,0
+apple,Apple iPhone 13 Pro,642.57,512,6,204.0,6.1,iOS 15,1,3095,460,Apple,0
+apple,Apple iPhone 13 Pro,751.6,1000,6,204.0,6.1,iOS 15,1,3095,460,Apple,0
+apple,Apple iPhone 13 mini,342.0,256,4,141.0,5.4,iOS 15,1,2438,476,Apple,0
+apple,Apple iPhone 13 mini,395.0,512,4,141.0,5.4,iOS 15,1,2438,476,Apple,0
+apple,Apple iPhone 13 Pro Max,538.95,256,6,240.0,6.7,iOS 15,1,4352,458,Apple,0
+apple,Apple iPhone 13 Pro Max,590.24,512,6,240.0,6.7,iOS 15,1,4352,458,Apple,0
+apple,Apple iPhone 13 Pro Max,624.4,1000,6,240.0,6.7,iOS 15,1,4352,458,Apple,0
+apple,Apple iPhone 13,318.8,256,4,174.0,6.1,iOS 15,1,3240,460,Apple,0
+apple,Apple iPhone 13,433.45,512,4,174.0,6.1,iOS 15,1,3240,460,Apple,0
+apple,Apple iPhone 13 Pro,495.98,256,6,204.0,6.1,iOS 15,1,3095,460,Apple,0
+apple,Apple iPhone 13 Pro,521.15,512,6,204.0,6.1,iOS 15,1,3095,460,Apple,0
+apple,Apple iPhone 13 Pro,662.54,1000,6,204.0,6.1,iOS 15,1,3095,460,Apple,0
+apple,Apple iPhone 13 mini,383.79,256,4,141.0,5.4,iOS 15,1,2438,476,Apple,0
+apple,Apple iPhone 13 mini,438.42,512,4,141.0,5.4,iOS 15,1,2438,476,Apple,0
+apple,Apple iPhone 13 Pro Max,642.69,256,6,240.0,6.7,iOS 15,1,4352,458,Apple,0
+apple,Apple iPhone 13 Pro Max,661.56,512,6,240.0,6.7,iOS 15,1,4352,458,Apple,0
+apple,Apple iPhone 13 Pro Max,806.55,1000,6,240.0,6.7,iOS 15,1,4352,458,Apple,0
+apple,Apple iPhone 13,452.75,256,4,174.0,6.1,iOS 15,1,3240,460,Apple,0
+apple,Apple iPhone 13,486.57,512,4,174.0,6.1,iOS 15,1,3240,460,Apple,0
+apple,Apple iPhone 13 Pro,552.21,256,6,204.0,6.1,iOS 15,1,3095,460,Apple,0
+apple,Apple iPhone 13 Pro,604.64,512,6,204.0,6.1,iOS 15,1,3095,460,Apple,0
+apple,Apple iPhone 13 Pro,683.6,1000,6,204.0,6.1,iOS 15,1,3095,460,Apple,0
+xiaomi,Xiaomi 11 Lite 5G NE,209.02,128,8,158.0,6.55,Android 11,1,4250,402,Qualcomm,0
+xiaomi,Xiaomi 11 Lite 5G NE,558.13,128,8,158.0,6.55,Android 11,1,4250,402,Qualcomm,0
+xiaomi,Xiaomi 11 Lite 5G NE,175.62,256,8,158.0,6.55,Android 11,1,4250,402,Qualcomm,0
+xiaomi,Xiaomi 11 Lite 5G NE,266.66,128,8,158.0,6.55,Android 11,1,4250,402,Qualcomm,0
+samsung,Samsung Galaxy M52 5G,282.32,128,8,173.0,6.7,Android 11,1,5000,393,Qualcomm,0
+xiaomi,Xiaomi 11T Pro,275.23,256,8,204.0,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi 11T Pro,198.29,256,12,204.0,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi 11T,195.05,256,8,203.0,6.67,Android 11,1,5000,395,Mediatek,0
+xiaomi,Xiaomi 11T Pro,260.19,256,8,204.0,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi 11T Pro,208.15,256,12,204.0,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi 11T,191.23,256,8,203.0,6.67,Android 11,1,5000,395,Mediatek,0
+oneplus,OnePlus 9RT 5G,419.99,256,8,198.5,6.62,Android 11,1,4500,397,Qualcomm,0
+google,Google Pixel 6,210.57,256,8,207.0,6.4,Android 12,1,4614,411,Google,0
+google,Google Pixel 6 Pro,299.37,256,12,210.0,6.7,Android 12,1,5003,512,Google,0
+google,Google Pixel 6 Pro,371.11,512,12,210.0,6.7,Android 12,1,5003,512,Google,0
+google,Google Pixel 6,199.08,256,8,207.0,6.4,Android 12,1,4614,411,Google,0
+google,Google Pixel 6 Pro,204.95,256,12,210.0,6.7,Android 12,1,5003,512,Google,0
+google,Google Pixel 6 Pro,269.99,512,12,210.0,6.7,Android 12,1,5003,512,Google,0
+google,Google Pixel 6,208.15,256,8,207.0,6.4,Android 12,1,4614,411,Google,0
+google,Google Pixel 6 Pro,219.87,256,12,210.0,6.7,Android 12,1,5003,512,Google,0
+google,Google Pixel 6 Pro,336.95,512,12,210.0,6.7,Android 12,1,5003,512,Google,0
+xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,216.7,128,8,204.0,6.67,Android 11,1,4500,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,379.25,256,8,204.0,6.67,Android 11,1,4500,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,199.0,128,8,204.0,6.67,Android 11,1,4500,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,229.0,256,8,204.0,6.67,Android 11,1,4500,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11 Pro+ 5G,144.6,128,8,204.0,6.67,Android 11,1,4500,395,Mediatek,0
+xiaomi,Xiaomi Poco M4 Pro 5G,161.67,64,6,195.0,6.6,Android 11,1,5000,399,Mediatek,0
+xiaomi,Xiaomi Poco M4 Pro 5G,197.65,128,6,195.0,6.6,Android 11,1,5000,399,Mediatek,0
+xiaomi,Xiaomi Poco M4 Pro 5G,194.14,64,6,195.0,6.6,Android 11,1,5000,399,Mediatek,0
+xiaomi,Xiaomi Poco M4 Pro 5G,317.44,128,6,195.0,6.6,Android 11,1,5000,399,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11 4G,95.36,128,6,181.0,6.5,Android 11,0,5000,405,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11 4G,204.99,128,6,181.0,6.5,Android 11,0,5000,405,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11 4G,156.12,128,6,181.0,6.5,Android 11,0,5000,405,Mediatek,0
+samsung,Samsung Galaxy A13 5G,200.47,128,4,195.0,6.5,Android 11,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A13 5G,79.0,128,4,195.0,6.5,Android 11,1,5000,270,Mediatek,0
+samsung,Samsung Galaxy A13 5G,149.6,128,4,195.0,6.5,Android 11,1,5000,270,Mediatek,0
+xiaomi,Xiaomi 12 Pro,530.95,256,8,204.0,6.73,Android 12,1,4600,521,Qualcomm,0
+xiaomi,Xiaomi 12 Pro,527.49,256,12,204.0,6.73,Android 12,1,4600,521,Qualcomm,0
+xiaomi,Xiaomi 12,195.04,256,8,179.0,6.28,Android 12,1,4500,419,Qualcomm,0
+xiaomi,Xiaomi 12,233.93,256,12,179.0,6.28,Android 12,1,4500,419,Qualcomm,0
+xiaomi,Xiaomi 12X,390.88,256,8,176.0,6.28,Android 11,1,4500,419,Qualcomm,0
+xiaomi,Xiaomi 12X,210.21,256,12,176.0,6.28,Android 11,1,4500,419,Qualcomm,0
+xiaomi,Xiaomi 12 Pro,419.41,256,8,204.0,6.73,Android 12,1,4600,521,Qualcomm,0
+xiaomi,Xiaomi 12,322.0,256,8,179.0,6.28,Android 12,1,4500,419,Qualcomm,0
+xiaomi,Xiaomi 12,374.3,256,12,179.0,6.28,Android 12,1,4500,419,Qualcomm,0
+xiaomi,Xiaomi 12 Pro,455.35,256,8,204.0,6.73,Android 12,1,4600,521,Qualcomm,0
+xiaomi,Xiaomi 12,330.77,256,8,179.0,6.28,Android 12,1,4500,419,Qualcomm,0
+xiaomi,Xiaomi 12,359.05,256,12,179.0,6.28,Android 12,1,4500,419,Qualcomm,0
+xiaomi,Xiaomi 12X,550.47,256,8,176.0,6.28,Android 11,1,4500,419,Qualcomm,0
+xiaomi,Xiaomi 12 Pro,399.0,256,8,204.0,6.73,Android 12,1,4600,521,Qualcomm,0
+xiaomi,Xiaomi 12,295.0,256,8,179.0,6.28,Android 12,1,4500,419,Qualcomm,0
+samsung,Samsung Galaxy S21 FE 5G,369.0,128,8,177.0,6.4,Android 12,1,4500,403,Qualcomm,0
+samsung,Samsung Galaxy S21 FE 5G,475.7,256,8,177.0,6.4,Android 12,1,4500,403,Qualcomm,0
+samsung,Samsung Galaxy S21 FE 5G,150.0,128,8,177.0,6.4,Android 12,1,4500,403,Qualcomm,0
+samsung,Samsung Galaxy S21 FE 5G,499.0,256,8,177.0,6.4,Android 12,1,4500,403,Qualcomm,0
+samsung,Samsung Galaxy S21 FE 5G,192.55,128,8,177.0,6.4,Android 12,1,4500,403,Qualcomm,0
+samsung,Samsung Galaxy S21 FE 5G,258.9,256,8,177.0,6.4,Android 12,1,4500,403,Qualcomm,0
+oneplus,OnePlus 10 Pro,440.96,256,8,201.0,6.7,Android 12,1,5000,525,Qualcomm,0
+oneplus,OnePlus 10 Pro,624.15,256,12,201.0,6.7,Android 12,1,5000,525,Qualcomm,0
+oneplus,OnePlus 10 Pro,239.95,256,8,201.0,6.7,Android 12,1,5000,525,Qualcomm,0
+oneplus,OnePlus 10 Pro,750.0,256,12,201.0,6.7,Android 12,1,5000,525,Qualcomm,0
+oneplus,OnePlus 10 Pro,437.18,256,8,201.0,6.7,Android 12,1,5000,525,Qualcomm,0
+oneplus,OnePlus 10 Pro,866.31,256,12,201.0,6.7,Android 12,1,5000,525,Qualcomm,0
+samsung,Samsung Galaxy A03,140.86,32,4,196.0,6.5,Android 11,0,5000,270,Unisoc,0
+samsung,Samsung Galaxy A03,136.91,64,4,196.0,6.5,Android 11,0,5000,270,Unisoc,0
+samsung,Samsung Galaxy A03,99.0,32,4,196.0,6.5,Android 11,0,5000,270,Unisoc,0
+samsung,Samsung Galaxy A03,118.39,32,4,196.0,6.5,Android 11,0,5000,270,Unisoc,0
+samsung,Samsung Galaxy A03,130.09,64,4,196.0,6.5,Android 11,0,5000,270,Unisoc,0
+xiaomi,Xiaomi Redmi Note 11,137.61,64,6,179.0,6.43,Android 11,1,5000,409,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 11,150.08,128,4,179.0,6.43,Android 11,1,5000,409,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 11,189.62,128,6,179.0,6.43,Android 11,1,5000,409,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 11S,144.11,128,6,179.0,6.43,Android 11,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11S,169.35,128,8,179.0,6.43,Android 11,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11,129.99,64,6,179.0,6.43,Android 11,1,5000,409,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 11S,159.99,128,6,179.0,6.43,Android 11,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11S,139.99,128,8,179.0,6.43,Android 11,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11,147.38,64,6,179.0,6.43,Android 11,1,5000,409,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 11,144.41,128,4,179.0,6.43,Android 11,1,5000,409,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 11,175.35,128,6,179.0,6.43,Android 11,1,5000,409,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 11S,153.3,128,6,179.0,6.43,Android 11,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11S,186.3,128,8,179.0,6.43,Android 11,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11 Pro,167.95,128,6,202.0,6.67,Android 11,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11 Pro,180.65,128,8,202.0,6.67,Android 11,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,170.46,128,4,202.0,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,162.53,128,6,202.0,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,270.9,128,8,202.0,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 11 Pro,189.99,128,6,202.0,6.67,Android 11,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11 Pro,228.0,128,8,202.0,6.67,Android 11,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,189.99,128,4,202.0,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,160.0,128,6,202.0,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,170.0,128,8,202.0,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 11 Pro,177.87,128,6,202.0,6.67,Android 11,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11 Pro,244.42,128,8,202.0,6.67,Android 11,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,181.5,128,4,202.0,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,219.87,128,6,202.0,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,281.11,128,8,202.0,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 11 Pro,161.0,128,6,202.0,6.67,Android 11,1,5000,395,Mediatek,0
+oneplus,OnePlus Nord CE 2 5G,168.92,128,8,173.0,6.43,Android 11,1,4500,409,Mediatek,0
+oneplus,OnePlus Nord CE 2 5G,199.99,128,8,173.0,6.43,Android 11,1,4500,409,Mediatek,0
+oneplus,OnePlus Nord CE 2 5G,193.85,128,8,173.0,6.43,Android 11,1,4500,409,Mediatek,0
+samsung,Samsung Galaxy S22 5G,290.95,256,8,167.0,6.1,Android 12,1,3700,425,Exynos,0
+samsung,Samsung Galaxy S22+ 5G,476.78,256,8,195.0,6.6,Android 12,1,4500,393,Exynos,0
+samsung,Samsung Galaxy S22 Ultra 5G,457.13,256,12,228.0,6.8,Android 12,1,5000,500,Exynos,0
+samsung,Samsung Galaxy S22 Ultra 5G,546.12,512,12,228.0,6.8,Android 12,1,5000,500,Exynos,0
+samsung,Samsung Galaxy S22 Ultra 5G,594.9,1000,12,228.0,6.8,Android 12,1,5000,500,Exynos,0
+samsung,Samsung Galaxy S22 5G,219.95,256,8,167.0,6.1,Android 12,1,3700,425,Exynos,0
+samsung,Samsung Galaxy S22 5G,449.99,256,8,167.0,6.1,Android 12,1,3700,425,Exynos,0
+samsung,Samsung Galaxy S22+ 5G,274.0,256,8,195.0,6.6,Android 12,1,4500,393,Exynos,0
+samsung,Samsung Galaxy S22+ 5G,999.99,256,8,195.0,6.6,Android 12,1,4500,393,Exynos,0
+samsung,Samsung Galaxy S22+ 5G,829.99,256,8,195.0,6.6,Android 12,1,4500,393,Exynos,0
+samsung,Samsung Galaxy S22 Ultra 5G,360.99,256,12,228.0,6.8,Android 12,1,5000,500,Exynos,0
+samsung,Samsung Galaxy S22 Ultra 5G,384.95,512,12,228.0,6.8,Android 12,1,5000,500,Exynos,0
+samsung,Samsung Galaxy S22 Ultra 5G,394.95,1000,12,228.0,6.8,Android 12,1,5000,500,Exynos,0
+samsung,Samsung Galaxy S22 Ultra 5G,829.0,256,12,228.0,6.8,Android 12,1,5000,500,Exynos,0
+samsung,Samsung Galaxy S22 Ultra 5G,929.0,512,12,228.0,6.8,Android 12,1,5000,500,Exynos,0
+samsung,Samsung Galaxy S22 5G,301.56,256,8,167.0,6.1,Android 12,1,3700,425,Exynos,0
+samsung,Samsung Galaxy S22+ 5G,279.7,256,8,195.0,6.6,Android 12,1,4500,393,Exynos,0
+samsung,Samsung Galaxy S22 Ultra 5G,416.25,256,12,228.0,6.8,Android 12,1,5000,500,Exynos,0
+samsung,Samsung Galaxy S22 Ultra 5G,533.41,512,12,228.0,6.8,Android 12,1,5000,500,Exynos,0
+samsung,Samsung Galaxy S22 Ultra 5G,578.94,1000,12,228.0,6.8,Android 12,1,5000,500,Exynos,0
+xiaomi,Xiaomi Poco M4 Pro,148.54,128,6,179.5,6.43,Android 11,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Poco M4 Pro,216.71,128,8,179.5,6.43,Android 11,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Poco M4 Pro,228.38,128,6,179.5,6.43,Android 11,1,5000,409,Mediatek,0
+apple,Apple iPhone SE (2022),243.81,128,4,144.0,4.7,iOS 15.4,1,2018,326,Apple,0
+apple,Apple iPhone SE (2022),186.38,256,4,144.0,4.7,iOS 15.4,1,2018,326,Apple,0
+apple,Apple iPhone SE (2022),126.49,128,4,144.0,4.7,iOS 15.4,1,2018,326,Apple,0
+apple,Apple iPhone SE (2022),233.33,256,4,144.0,4.7,iOS 15.4,1,2018,326,Apple,0
+apple,Apple iPhone SE (2022),231.58,128,4,144.0,4.7,iOS 15.4,1,2018,326,Apple,0
+apple,Apple iPhone SE (2022),339.56,256,4,144.0,4.7,iOS 15.4,1,2018,326,Apple,0
+samsung,Samsung Galaxy A13,118.1,32,4,195.0,6.6,Android 12,1,5000,400,Exynos,0
+samsung,Samsung Galaxy A13,119.09,64,4,195.0,6.6,Android 12,1,5000,400,Exynos,0
+samsung,Samsung Galaxy A13,207.12,128,4,195.0,6.6,Android 12,1,5000,400,Exynos,0
+xiaomi,Xiaomi Redmi 10C,116.49,64,4,190.0,6.71,Android 11,1,5000,268,Qualcomm,0
+xiaomi,Xiaomi Poco X4 Pro 5G,245.94,128,6,205.0,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Poco X4 Pro 5G,286.71,128,8,205.0,6.67,Android 11,1,5000,395,Qualcomm,0
+samsung,Samsung Galaxy A13,87.0,32,4,195.0,6.6,Android 12,1,5000,400,Exynos,0
+samsung,Samsung Galaxy A13,104.0,64,4,195.0,6.6,Android 12,1,5000,400,Exynos,0
+samsung,Samsung Galaxy A13,114.99,128,4,195.0,6.6,Android 12,1,5000,400,Exynos,0
+xiaomi,Xiaomi Redmi 10C,84.99,64,4,190.0,6.71,Android 11,1,5000,268,Qualcomm,0
+xiaomi,Xiaomi Redmi 10C,129.99,128,4,190.0,6.71,Android 11,1,5000,268,Qualcomm,0
+xiaomi,Xiaomi Poco X4 Pro 5G,199.99,128,6,205.0,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Poco X4 Pro 5G,230.0,128,8,205.0,6.67,Android 11,1,5000,395,Qualcomm,0
+samsung,Samsung Galaxy A13,180.84,32,4,195.0,6.6,Android 12,1,5000,400,Exynos,0
+samsung,Samsung Galaxy A13,102.71,64,4,195.0,6.6,Android 12,1,5000,400,Exynos,0
+samsung,Samsung Galaxy A13,213.36,128,4,195.0,6.6,Android 12,1,5000,400,Exynos,0
+xiaomi,Xiaomi Poco X4 Pro 5G,435.82,128,6,205.0,6.67,Android 11,1,5000,395,Qualcomm,0
+samsung,Samsung Galaxy A53 5G,320.06,128,6,189.0,6.5,Android 12,1,5000,405,Exynos,0
+samsung,Samsung Galaxy A53 5G,447.1,128,8,189.0,6.5,Android 12,1,5000,405,Exynos,0
+samsung,Samsung Galaxy A53 5G,134.09,128,6,189.0,6.5,Android 12,1,5000,405,Exynos,0
+samsung,Samsung Galaxy A53 5G,183.7,128,8,189.0,6.5,Android 12,1,5000,405,Exynos,0
+samsung,Samsung Galaxy A53 5G,219.99,256,6,189.0,6.5,Android 12,1,5000,405,Exynos,0
+samsung,Samsung Galaxy A53 5G,389.0,256,8,189.0,6.5,Android 12,1,5000,405,Exynos,0
+samsung,Samsung Galaxy A53 5G,499.99,128,6,189.0,6.5,Android 12,1,5000,405,Exynos,0
+samsung,Samsung Galaxy A53 5G,232.88,128,6,189.0,6.5,Android 12,1,5000,405,Exynos,0
+samsung,Samsung Galaxy A53 5G,286.21,128,8,189.0,6.5,Android 12,1,5000,405,Exynos,0
+samsung,Samsung Galaxy A23,147.99,64,6,195.0,6.6,Android 12,1,5000,400,Qualcomm,0
+samsung,Samsung Galaxy A23,174.99,128,4,195.0,6.6,Android 12,1,5000,400,Qualcomm,0
+samsung,Samsung Galaxy A23,247.18,64,6,195.0,6.6,Android 12,1,5000,400,Qualcomm,0
+xiaomi,Xiaomi Redmi 10A,89.52,32,3,194.0,6.53,Android 11,0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi 10A,105.01,64,3,194.0,6.53,Android 11,0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi 10A,93.52,32,3,194.0,6.53,Android 11,0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi 10A,75.0,64,3,194.0,6.53,Android 11,0,5000,269,Mediatek,0
+samsung,Samsung Galaxy M33,487.77,128,8,198.0,6.6,Android 12,1,5000,400,Exynos,0
+samsung,Samsung Galaxy A33 5G,254.91,128,6,186.0,6.4,Android 12,1,5000,411,Exynos,0
+samsung,Samsung Galaxy A33 5G,299.99,128,6,186.0,6.4,Android 12,1,5000,411,Exynos,0
+samsung,Samsung Galaxy A33 5G,286.15,128,6,186.0,6.4,Android 12,1,5000,411,Exynos,0
+samsung,Samsung Galaxy M53,422.59,128,8,176.0,6.7,Android 12,1,5000,394,Mediatek,0
+samsung,Samsung Galaxy M53,272.07,256,8,176.0,6.7,Android 12,1,5000,394,Mediatek,0
+samsung,Samsung Galaxy A73 5G,599.0,128,8,181.0,6.7,Android 12,1,5000,393,Qualcomm,0
+samsung,Samsung Galaxy M53,418.21,128,8,176.0,6.7,Android 12,1,5000,394,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11S 5G,144.51,128,4,195.0,6.6,Android 11,1,5000,399,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11S 5G,161.46,128,6,195.0,6.6,Android 11,1,5000,399,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11S 5G,224.99,128,4,195.0,6.6,Android 11,1,5000,399,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11S 5G,160.18,128,4,195.0,6.6,Android 11,1,5000,399,Mediatek,0
+xiaomi,Xiaomi Redmi Note 11S 5G,159.88,128,6,195.0,6.6,Android 11,1,5000,399,Mediatek,0
+xiaomi,Xiaomi Poco F4 GT,390.88,256,12,210.0,6.67,Android 12,1,4700,395,Qualcomm,0
+xiaomi,Xiaomi Poco F4 GT,520.39,256,12,210.0,6.67,Android 12,1,4700,395,Qualcomm,0
+oneplus,OnePlus Nord CE 2 Lite 5G,260.05,128,8,195.0,6.59,Android 12,1,5000,401,Qualcomm,0
+oneplus,OnePlus Nord CE 2 Lite 5G,193.85,128,8,195.0,6.59,Android 12,1,5000,401,Qualcomm,0
+xiaomi,Xiaomi Redmi 10 2022,117.02,128,4,181.0,6.5,Android 11,1,5000,405,Mediatek,0
+xiaomi,Xiaomi Redmi 10 2022,121.24,128,6,181.0,6.5,Android 11,1,5000,405,Mediatek,0
+xiaomi,Xiaomi Redmi 10 2022,139.99,128,4,181.0,6.5,Android 11,1,5000,405,Mediatek,0
+xiaomi,Xiaomi Redmi 10 2022,111.74,128,4,181.0,6.5,Android 11,1,5000,405,Mediatek,0
+xiaomi,Xiaomi Redmi 10 2022,113.15,128,6,181.0,6.5,Android 11,1,5000,405,Mediatek,0
+xiaomi,Xiaomi Redmi 10 2022,158.09,128,4,181.0,6.5,Android 11,1,5000,405,Mediatek,0
+oneplus,OnePlus Nord 2T,281.73,256,12,190.0,6.43,Android 12,1,4500,409,Mediatek,0
+oneplus,OnePlus Nord 2T,359.99,256,12,190.0,6.43,Android 12,1,4500,409,Mediatek,0
+oneplus,OnePlus Nord 2T,279.7,256,12,190.0,6.43,Android 12,1,4500,409,Mediatek,0
+xiaomi,Xiaomi Poco C40,117.03,64,4,204.0,6.71,Android 11,1,6000,268,JLQ,0
+xiaomi,Xiaomi Poco C40,104.0,64,4,204.0,6.71,Android 11,1,6000,268,JLQ,0
+xiaomi,Xiaomi Poco C40,189.85,64,4,204.0,6.71,Android 11,1,6000,268,JLQ,0
+xiaomi,Xiaomi Poco C40,108.37,32,4,204.0,6.71,Android 11,1,6000,268,JLQ,0
+xiaomi,Xiaomi Poco C40,111.25,64,4,204.0,6.71,Android 11,1,6000,268,JLQ,0
+xiaomi,Xiaomi Poco X4 GT,204.79,256,8,200.0,6.6,Android 12,1,5080,407,Mediatek,0
+xiaomi,Xiaomi Poco X4 GT,199.99,256,8,200.0,6.6,Android 12,1,5080,407,Mediatek,0
+xiaomi,Xiaomi Poco F4,307.0,128,8,195.0,6.67,Android 12,1,4500,395,Qualcomm,0
+xiaomi,Xiaomi Poco F4,249.29,128,8,195.0,6.67,Android 12,1,4500,395,Qualcomm,0
+samsung,Samsung Galaxy M13,140.42,128,4,192.0,6.6,Android 12,1,5000,400,Exynos,0
+samsung,Samsung Galaxy A13 (SM-A137),202.09,32,4,195.0,6.6,Android 12,1,5000,400,Mediatek,0
+samsung,Samsung Galaxy A13 (SM-A137),184.49,64,4,195.0,6.6,Android 12,1,5000,400,Mediatek,0
+samsung,Samsung Galaxy M13,169.12,128,4,192.0,6.6,Android 12,1,5000,400,Exynos,0
+samsung,Samsung Galaxy A13 (SM-A137),217.51,32,4,195.0,6.6,Android 12,1,5000,400,Mediatek,0
+oneplus,OnePlus 10T,273.36,256,12,204.0,6.7,Android 12,1,4800,394,Qualcomm,0
+oneplus,OnePlus 10T,682.66,256,16,204.0,6.7,Android 12,1,4800,394,Qualcomm,0
+oneplus,OnePlus 10T,259.94,256,12,204.0,6.7,Android 12,1,4800,394,Qualcomm,0
+oneplus,OnePlus 10T,599.99,256,16,204.0,6.7,Android 12,1,4800,394,Qualcomm,0
+oneplus,OnePlus 10T,270.91,256,12,204.0,6.7,Android 12,1,4800,394,Qualcomm,0
+oneplus,OnePlus 10T,737.48,256,16,204.0,6.7,Android 12,1,4800,394,Qualcomm,0
+oneplus,OnePlus Nord N20 SE,149.99,128,4,187.0,6.56,Android 12,0,5000,269,Mediatek,0
+samsung,Samsung Galaxy Z Flip4,423.69,256,8,187.0,6.7,Android 12,1,3700,426,Qualcomm,1
+samsung,Samsung Galaxy Z Flip4,460.53,512,8,187.0,6.7,Android 12,1,3700,426,Qualcomm,1
+samsung,Samsung Galaxy Z Fold4,937.31,512,12,263.0,7.6,Android 12L,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Fold4,856.0,1000,12,263.0,7.6,Android 12L,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Flip4,351.0,256,8,187.0,6.7,Android 12,1,3700,426,Qualcomm,1
+samsung,Samsung Galaxy Z Flip4,235.0,512,8,187.0,6.7,Android 12,1,3700,426,Qualcomm,1
+samsung,Samsung Galaxy Z Flip4,899.99,256,8,187.0,6.7,Android 12,1,3700,426,Qualcomm,1
+samsung,Samsung Galaxy Z Flip4,809.99,512,8,187.0,6.7,Android 12,1,3700,426,Qualcomm,1
+samsung,Samsung Galaxy Z Flip4,999.99,256,8,187.0,6.7,Android 12,1,3700,426,Qualcomm,1
+samsung,Samsung Galaxy Z Flip4,1059.99,512,8,187.0,6.7,Android 12,1,3700,426,Qualcomm,1
+samsung,Samsung Galaxy Z Fold4,848.0,512,12,263.0,7.6,Android 12L,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Fold4,629.77,1000,12,263.0,7.6,Android 12L,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Fold4,1599.99,512,12,263.0,7.6,Android 12L,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Fold4,1719.99,1000,12,263.0,7.6,Android 12L,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Fold4,1799.99,512,12,263.0,7.6,Android 12L,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Fold4,1919.99,1000,12,263.0,7.6,Android 12L,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Flip4,301.83,256,8,187.0,6.7,Android 12,1,3700,426,Qualcomm,1
+samsung,Samsung Galaxy Z Flip4,331.76,512,8,187.0,6.7,Android 12,1,3700,426,Qualcomm,1
+samsung,Samsung Galaxy Z Fold4,649.2,512,12,263.0,7.6,Android 12L,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Fold4,728.56,1000,12,263.0,7.6,Android 12L,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy A23 5G,206.96,64,6,197.0,6.6,Android 12,1,5000,400,Qualcomm,0
+samsung,Samsung Galaxy A23 5G,245.99,128,4,197.0,6.6,Android 12,1,5000,400,Qualcomm,0
+samsung,Samsung Galaxy A23 5G,100.0,64,6,197.0,6.6,Android 12,1,5000,400,Qualcomm,0
+samsung,Samsung Galaxy A23 5G,299.99,64,6,197.0,6.6,Android 12,1,5000,400,Qualcomm,0
+samsung,Samsung Galaxy A23 5G,234.17,64,6,197.0,6.6,Android 12,1,5000,400,Qualcomm,0
+samsung,Samsung Galaxy A23 5G,188.64,128,4,197.0,6.6,Android 12,1,5000,400,Qualcomm,0
+xiaomi,Xiaomi Poco M5s,146.28,128,4,178.8,6.43,Android 12,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Poco M5s,171.2,128,6,178.8,6.43,Android 12,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Poco M5s,209.88,256,8,178.8,6.43,Android 12,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Poco M5s,159.99,128,4,178.8,6.43,Android 12,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Poco M5s,179.99,128,6,178.8,6.43,Android 12,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Poco M5s,169.13,128,4,178.8,6.43,Android 12,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Poco M5s,180.97,128,6,178.8,6.43,Android 12,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Poco M5s,137.36,128,4,178.8,6.43,Android 12,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Poco M5s,176.33,128,6,178.8,6.43,Android 12,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Poco M5s,107.0,256,8,178.8,6.43,Android 12,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Poco M5,117.02,128,4,201.0,6.58,Android 12,1,5000,401,Mediatek,0
+xiaomi,Xiaomi Poco M5,173.37,128,6,201.0,6.58,Android 12,1,5000,401,Mediatek,0
+xiaomi,Xiaomi Poco M5,169.99,128,4,201.0,6.58,Android 12,1,5000,401,Mediatek,0
+xiaomi,Xiaomi Poco M5,164.99,128,6,201.0,6.58,Android 12,1,5000,401,Mediatek,0
+xiaomi,Xiaomi Poco M5,183.9,128,4,201.0,6.58,Android 12,1,5000,401,Mediatek,0
+apple,Apple iPhone 14,642.13,256,6,172.0,6.1,iOS 16,1,3279,460,Apple,0
+apple,Apple iPhone 14,744.14,512,6,172.0,6.1,iOS 16,1,3279,460,Apple,0
+apple,Apple iPhone 14 Pro,769.59,256,6,206.0,6.1,iOS 16,1,3200,460,Apple,0
+apple,Apple iPhone 14 Pro,864.56,512,6,206.0,6.1,iOS 16,1,3200,460,Apple,0
+apple,Apple iPhone 14 Pro,1022.14,1000,6,206.0,6.1,iOS 16,1,3200,460,Apple,0
+apple,Apple iPhone 14 Pro Max,843.14,256,6,240.0,6.7,iOS 16,1,4323,460,Apple,0
+apple,Apple iPhone 14 Pro Max,879.86,512,6,240.0,6.7,iOS 16,1,4323,460,Apple,0
+apple,Apple iPhone 14 Pro Max,998.37,1000,6,240.0,6.7,iOS 16,1,4323,460,Apple,0
+apple,Apple iPhone 14,447.5,256,6,172.0,6.1,iOS 16,1,3279,460,Apple,0
+apple,Apple iPhone 14,530.0,512,6,172.0,6.1,iOS 16,1,3279,460,Apple,0
+apple,Apple iPhone 14 Pro,603.41,256,6,206.0,6.1,iOS 16,1,3200,460,Apple,0
+apple,Apple iPhone 14 Pro,679.05,512,6,206.0,6.1,iOS 16,1,3200,460,Apple,0
+apple,Apple iPhone 14 Pro,698.06,1000,6,206.0,6.1,iOS 16,1,3200,460,Apple,0
+apple,Apple iPhone 14 Pro Max,686.07,256,6,240.0,6.7,iOS 16,1,4323,460,Apple,0
+apple,Apple iPhone 14 Pro Max,668.95,512,6,240.0,6.7,iOS 16,1,4323,460,Apple,0
+apple,Apple iPhone 14 Pro Max,787.5,1000,6,240.0,6.7,iOS 16,1,4323,460,Apple,0
+apple,Apple iPhone 14 Pro Max,999.99,256,6,240.0,6.7,iOS 16,1,4323,460,Apple,0
+apple,Apple iPhone 14,584.9,256,6,172.0,6.1,iOS 16,1,3279,460,Apple,0
+apple,Apple iPhone 14,616.66,512,6,172.0,6.1,iOS 16,1,3279,460,Apple,0
+apple,Apple iPhone 14 Pro,714.81,256,6,206.0,6.1,iOS 16,1,3200,460,Apple,0
+apple,Apple iPhone 14 Pro,805.32,512,6,206.0,6.1,iOS 16,1,3200,460,Apple,0
+apple,Apple iPhone 14 Pro,894.01,1000,6,206.0,6.1,iOS 16,1,3200,460,Apple,0
+apple,Apple iPhone 14 Pro Max,813.09,256,6,240.0,6.7,iOS 16,1,4323,460,Apple,0
+apple,Apple iPhone 14 Pro Max,884.33,512,6,240.0,6.7,iOS 16,1,4323,460,Apple,0
+apple,Apple iPhone 14 Pro Max,1001.77,1000,6,240.0,6.7,iOS 16,1,4323,460,Apple,0
+samsung,Samsung Galaxy A04s,131.87,32,4,195.0,6.5,Android 12,1,5000,270,Exynos,0
+samsung,Samsung Galaxy A04s,119.99,32,4,195.0,6.5,Android 12,1,5000,270,Exynos,0
+samsung,Samsung Galaxy A04s,100.18,32,4,195.0,6.5,Android 12,1,5000,270,Exynos,0
+samsung,Samsung Galaxy A04s,102.7,64,4,195.0,6.5,Android 12,1,5000,270,Exynos,0
+xiaomi,Xiaomi Redmi A1+,78.01,32,3,192.0,6.52,Android 12 (Go edition),0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi 10 5G,138.61,128,4,200.0,6.58,Android 12,1,5000,401,Mediatek,0
+xiaomi,Xiaomi Redmi 10 5G,151.69,128,6,200.0,6.58,Android 12,1,5000,401,Mediatek,0
+xiaomi,Xiaomi Redmi 10 5G,138.73,128,4,200.0,6.58,Android 12,1,5000,401,Mediatek,0
+xiaomi,Xiaomi Redmi 10 5G,152.41,128,6,200.0,6.58,Android 12,1,5000,401,Mediatek,0
+xiaomi,Xiaomi Redmi A1+,99.76,32,3,192.0,6.52,Android 12 (Go edition),0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi 10 5G,158.36,128,4,200.0,6.58,Android 12,1,5000,401,Mediatek,0
+xiaomi,Xiaomi 12T Pro,432.36,256,8,205.0,6.67,Android 12,1,5000,446,Qualcomm,0
+xiaomi,Xiaomi 12T Pro,392.25,256,12,205.0,6.67,Android 12,1,5000,446,Qualcomm,0
+xiaomi,Xiaomi 12T,356.5,256,8,202.0,6.67,Android 12,1,5000,446,Mediatek,0
+xiaomi,Xiaomi 12T,415.02,256,8,202.0,6.67,Android 12,1,5000,446,Mediatek,0
+apple,Apple iPhone 14 Plus,683.31,256,6,203.0,6.7,iOS 16,1,4323,458,Apple,0
+apple,Apple iPhone 14 Plus,805.65,512,6,203.0,6.7,iOS 16,1,4323,458,Apple,0
+xiaomi,Xiaomi Poco M4 5G,197.65,128,6,200.0,6.58,Android 12,1,5000,401,Mediatek,0
+apple,Apple iPhone 14 Plus,427.99,256,6,203.0,6.7,iOS 16,1,4323,458,Apple,0
+apple,Apple iPhone 14 Plus,569.95,512,6,203.0,6.7,iOS 16,1,4323,458,Apple,0
+xiaomi,Xiaomi Poco M4 5G,160.0,128,6,200.0,6.58,Android 12,1,5000,401,Mediatek,0
+apple,Apple iPhone 14 Plus,507.39,256,6,203.0,6.7,iOS 16,1,4323,458,Apple,0
+apple,Apple iPhone 14 Plus,660.26,512,6,203.0,6.7,iOS 16,1,4323,458,Apple,0
+xiaomi,Xiaomi Poco M4 5G,205.0,128,6,200.0,6.58,Android 12,1,5000,401,Mediatek,0
+samsung,Samsung Galaxy A04,69.5,128,4,192.0,6.5,Android 12,0,5000,270,Mediatek,0
+google,Google Pixel 7 Pro,399.92,256,12,212.0,6.7,Android 13,1,5000,512,Google,0
+google,Google Pixel 7 Pro,458.3,512,12,212.0,6.7,Android 13,1,5000,512,Google,0
+google,Google Pixel 7,324.0,256,8,197.0,6.3,Android 13,1,4355,416,Google,0
+google,Google Pixel 7 Pro,298.31,256,12,212.0,6.7,Android 13,1,5000,512,Google,0
+google,Google Pixel 7 Pro,360.0,512,12,212.0,6.7,Android 13,1,5000,512,Google,0
+google,Google Pixel 7 Pro,899.0,256,12,212.0,6.7,Android 13,1,5000,512,Google,0
+google,Google Pixel 7 Pro,999.0,512,12,212.0,6.7,Android 13,1,5000,512,Google,0
+google,Google Pixel 7,245.5,256,8,197.0,6.3,Android 13,1,4355,416,Google,0
+google,Google Pixel 7 Pro,360.16,256,12,212.0,6.7,Android 13,1,5000,512,Google,0
+google,Google Pixel 7 Pro,422.76,512,12,212.0,6.7,Android 13,1,5000,512,Google,0
+google,Google Pixel 7,284.88,256,8,197.0,6.3,Android 13,1,4355,416,Google,0
+xiaomi,Xiaomi Redmi Note 12 Pro,204.8,128,8,187.0,6.67,Android 12,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 12 Pro,256.39,256,8,187.0,6.67,Android 12,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 12 Pro,237.31,256,12,187.0,6.67,Android 12,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 12 Pro+,229.68,256,12,208.4,6.67,Android 12,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 12 Pro,220.0,128,8,187.0,6.67,Android 12,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 12 Pro,284.45,256,8,187.0,6.67,Android 12,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 12 Pro,209.5,256,12,187.0,6.67,Android 12,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 12 Pro+,242.5,256,12,208.4,6.67,Android 12,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 12 Pro,260.2,128,8,187.0,6.67,Android 12,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 12 Pro,370.55,256,8,187.0,6.67,Android 12,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 12 Pro+,312.53,256,12,208.4,6.67,Android 12,1,5000,395,Mediatek,0
+samsung,Samsung Galaxy A04e,114.14,32,4,188.0,6.5,Android 12,0,5000,270,Mediatek,0
+samsung,Samsung Galaxy A04e,83.0,32,4,188.0,6.5,Android 12,0,5000,270,Mediatek,0
+samsung,Samsung Galaxy A04e,98.86,32,4,188.0,6.5,Android 12,0,5000,270,Mediatek,0
+xiaomi,Xiaomi 13,680.09,256,8,185.0,6.36,Android 13,1,4500,414,Qualcomm,0
+xiaomi,Xiaomi 13,1059.74,256,12,185.0,6.36,Android 13,1,4500,414,Qualcomm,0
+xiaomi,Xiaomi 13 Pro,993.51,256,8,210.0,6.73,Android 13,1,4820,522,Qualcomm,0
+xiaomi,Xiaomi Redmi 12C,92.1,64,3,192.0,6.71,Android 12,1,5000,268,Mediatek,0
+xiaomi,Xiaomi Redmi 12C,105.29,64,4,192.0,6.71,Android 12,1,5000,268,Mediatek,0
+xiaomi,Xiaomi Redmi 12C,122.0,128,4,192.0,6.71,Android 12,1,5000,268,Mediatek,0
+xiaomi,Xiaomi Redmi 12C,127.85,128,6,192.0,6.71,Android 12,1,5000,268,Mediatek,0
+xiaomi,Xiaomi Redmi 12C,81.76,64,3,192.0,6.71,Android 12,1,5000,268,Mediatek,0
+xiaomi,Xiaomi Redmi 12C,122.53,64,4,192.0,6.71,Android 12,1,5000,268,Mediatek,0
+xiaomi,Xiaomi Redmi 12C,144.99,128,4,192.0,6.71,Android 12,1,5000,268,Mediatek,0
+xiaomi,Xiaomi Redmi 12C,80.0,64,3,192.0,6.71,Android 12,1,5000,268,Mediatek,0
+xiaomi,Xiaomi Redmi 12C,84.0,64,3,192.0,6.71,Android 12,1,5000,268,Mediatek,0
+oneplus,OnePlus 11,434.11,256,12,205.0,6.7,Android 13,1,5000,525,Qualcomm,0
+oneplus,OnePlus 11,630.6,256,16,205.0,6.7,Android 13,1,5000,525,Qualcomm,0
+oneplus,OnePlus 11,595.0,256,12,205.0,6.7,Android 13,1,5000,525,Qualcomm,0
+oneplus,OnePlus 11,553.91,256,16,205.0,6.7,Android 13,1,5000,525,Qualcomm,0
+oneplus,OnePlus 11,592.84,256,12,205.0,6.7,Android 13,1,5000,525,Qualcomm,0
+oneplus,OnePlus 11,747.23,256,16,205.0,6.7,Android 13,1,5000,525,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12,108.35,128,6,188.0,6.67,Android 12,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12,170.69,256,8,188.0,6.67,Android 12,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12,159.99,128,6,188.0,6.67,Android 12,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12,170.0,256,8,188.0,6.67,Android 12,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12,169.13,128,6,188.0,6.67,Android 12,1,5000,395,Qualcomm,0
+samsung,Samsung Galaxy A14 5G,150.62,128,4,202.0,6.6,Android 13,1,5000,400,Exynos,0
+samsung,Samsung Galaxy A14 5G,202.5,128,6,202.0,6.6,Android 13,1,5000,400,Exynos,0
+samsung,Samsung Galaxy A14 5G,59.95,128,4,202.0,6.6,Android 13,1,5000,400,Exynos,0
+samsung,Samsung Galaxy A14 5G,125.0,128,6,202.0,6.6,Android 13,1,5000,400,Exynos,0
+samsung,Samsung Galaxy A14 5G,199.99,128,4,202.0,6.6,Android 13,1,5000,400,Exynos,0
+samsung,Samsung Galaxy A14 5G,199.99,128,4,202.0,6.6,Android 13,1,5000,400,Exynos,0
+samsung,Samsung Galaxy A14 5G,119.69,128,4,202.0,6.6,Android 13,1,5000,400,Exynos,0
+samsung,Samsung Galaxy A14 5G,174.32,128,6,202.0,6.6,Android 13,1,5000,400,Exynos,0
+samsung,Samsung Galaxy A14 5G,174.33,128,8,202.0,6.6,Android 13,1,5000,400,Exynos,0
+xiaomi,Xiaomi Poco X5 Pro,303.4,256,8,181.0,6.67,Android 12,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Poco X5,241.48,256,8,189.0,6.67,Android 12,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Poco X5 Pro,229.0,256,8,181.0,6.67,Android 12,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Poco X5,213.99,256,8,189.0,6.67,Android 12,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Poco X5 Pro,375.17,256,8,181.0,6.67,Android 12,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Poco X5 Pro,249.29,256,8,181.0,6.67,Android 12,1,5000,395,Qualcomm,0
+samsung,Samsung Galaxy S23,537.47,256,8,168.0,6.1,Android 13,1,3900,425,Qualcomm,0
+samsung,Samsung Galaxy S23,702.67,512,8,168.0,6.1,Android 13,1,3900,425,Qualcomm,0
+samsung,Samsung Galaxy S23+,866.87,512,8,196.0,6.6,Android 13,1,4700,393,Qualcomm,0
+samsung,Samsung Galaxy S23 Ultra,811.62,512,12,234.0,6.8,Android 13,1,5000,500,Qualcomm,0
+samsung,Samsung Galaxy S23 Ultra,952.71,1000,12,234.0,6.8,Android 13,1,5000,500,Qualcomm,0
+samsung,Samsung Galaxy S23,354.9,256,8,168.0,6.1,Android 13,1,3900,425,Qualcomm,0
+samsung,Samsung Galaxy S23,473.5,512,8,168.0,6.1,Android 13,1,3900,425,Qualcomm,0
+samsung,Samsung Galaxy S23,759.99,256,8,168.0,6.1,Android 13,1,3900,425,Qualcomm,0
+samsung,Samsung Galaxy S23,699.99,256,8,168.0,6.1,Android 13,1,3900,425,Qualcomm,0
+samsung,Samsung Galaxy S23,859.99,512,8,168.0,6.1,Android 13,1,3900,425,Qualcomm,0
+samsung,Samsung Galaxy S23+,469.66,512,8,196.0,6.6,Android 13,1,4700,393,Qualcomm,0
+samsung,Samsung Galaxy S23+,999.99,512,8,196.0,6.6,Android 13,1,4700,393,Qualcomm,0
+samsung,Samsung Galaxy S23+,999.99,512,8,196.0,6.6,Android 13,1,4700,393,Qualcomm,0
+samsung,Samsung Galaxy S23 Ultra,635.5,256,12,234.0,6.8,Android 13,1,5000,500,Qualcomm,0
+samsung,Samsung Galaxy S23 Ultra,669.99,512,12,234.0,6.8,Android 13,1,5000,500,Qualcomm,0
+samsung,Samsung Galaxy S23 Ultra,692.0,1000,12,234.0,6.8,Android 13,1,5000,500,Qualcomm,0
+samsung,Samsung Galaxy S23 Ultra,759.99,256,12,234.0,6.8,Android 13,1,5000,500,Qualcomm,0
+samsung,Samsung Galaxy S23,409.15,256,8,168.0,6.1,Android 13,1,3900,425,Qualcomm,0
+samsung,Samsung Galaxy S23,481.36,512,8,168.0,6.1,Android 13,1,3900,425,Qualcomm,0
+samsung,Samsung Galaxy S23+,549.02,512,8,196.0,6.6,Android 13,1,4700,393,Qualcomm,0
+samsung,Samsung Galaxy S23 Ultra,832.57,256,12,234.0,6.8,Android 13,1,5000,500,Qualcomm,0
+samsung,Samsung Galaxy S23 Ultra,1300.99,512,12,234.0,6.8,Android 13,1,5000,500,Qualcomm,0
+samsung,Samsung Galaxy S23 Ultra,887.97,1000,12,234.0,6.8,Android 13,1,5000,500,Qualcomm,0
+xiaomi,Xiaomi 13 Lite,378.18,256,8,171.0,6.55,Android 12,1,4500,402,Qualcomm,0
+xiaomi,Xiaomi 13 Lite,340.0,256,8,171.0,6.55,Android 12,1,4500,402,Qualcomm,0
+xiaomi,Xiaomi 13 Lite,445.49,256,8,171.0,6.55,Android 12,1,4500,402,Qualcomm,0
+samsung,Samsung Galaxy A34,237.25,256,8,199.0,6.6,Android 13,1,5000,390,Mediatek,0
+samsung,Samsung Galaxy A54,308.83,128,8,202.0,6.4,Android 13,1,5000,403,Exynos,0
+samsung,Samsung Galaxy A54,363.01,256,8,202.0,6.4,Android 13,1,5000,403,Exynos,0
+xiaomi,Xiaomi Redmi A2+,102.78,32,3,192.0,6.52,Android 12 or 13 (Go edition),0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi A2,81.26,64,3,192.0,6.52,Android 12 or 13 (Go edition),0,5000,269,Mediatek,0
+samsung,Samsung Galaxy A34,245.0,128,8,199.0,6.6,Android 13,1,5000,390,Mediatek,0
+samsung,Samsung Galaxy A54,178.0,128,8,202.0,6.4,Android 13,1,5000,403,Exynos,0
+samsung,Samsung Galaxy A54,235.95,256,8,202.0,6.4,Android 13,1,5000,403,Exynos,0
+xiaomi,Xiaomi Redmi A2,59.5,64,2,192.0,6.52,Android 12 or 13 (Go edition),0,5000,269,Mediatek,0
+samsung,Samsung Galaxy A34,206.86,128,8,199.0,6.6,Android 13,1,5000,390,Mediatek,0
+samsung,Samsung Galaxy A34,262.79,256,8,199.0,6.6,Android 13,1,5000,390,Mediatek,0
+samsung,Samsung Galaxy A54,231.38,128,8,202.0,6.4,Android 13,1,5000,403,Exynos,0
+samsung,Samsung Galaxy A54,277.11,256,8,202.0,6.4,Android 13,1,5000,403,Exynos,0
+xiaomi,Xiaomi Redmi A2+,63.75,32,3,192.0,6.52,Android 12 or 13 (Go edition),0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi A2,71.54,64,3,192.0,6.52,Android 12 or 13 (Go edition),0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi A2+,89.91,32,3,192.0,6.52,Android 12 or 13 (Go edition),0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi A2+,69.63,64,3,192.0,6.52,Android 12 or 13 (Go edition),0,5000,269,Mediatek,0
+xiaomi,Xiaomi Redmi A2,92.98,32,3,192.0,6.52,Android 12 or 13 (Go edition),0,5000,269,Mediatek,0
+samsung,Samsung Galaxy A14,97.52,128,4,201.0,6.6,Android 13,1,5000,400,Mediatek,0
+samsung,Samsung Galaxy A14,153.43,128,6,201.0,6.6,Android 13,1,5000,400,Mediatek,0
+samsung,Samsung Galaxy A14,129.99,128,4,201.0,6.6,Android 13,1,5000,400,Mediatek,0
+samsung,Samsung Galaxy A14,115.79,128,4,201.0,6.6,Android 13,1,5000,400,Mediatek,0
+samsung,Samsung Galaxy A14,142.46,128,6,201.0,6.6,Android 13,1,5000,400,Mediatek,0
+xiaomi,Xiaomi Redmi Note 12 4G,114.04,128,4,183.5,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12 4G,163.07,128,6,183.5,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12 4G,212.89,128,8,183.5,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12 4G,152.98,256,8,183.5,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12 4G,154.5,128,4,183.5,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12 4G,189.9,128,6,183.5,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12 4G,126.24,128,4,183.5,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12 4G,151.51,128,6,183.5,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12 4G,119.21,128,4,183.5,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12 4G,195.0,128,6,183.5,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12 4G,154.0,128,8,183.5,6.67,Android 13,1,5000,395,Qualcomm,0
+oneplus,OnePlus Nord CE 3 Lite,222.51,256,8,195.0,6.72,Android 13,1,5000,391,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12 Pro 4G,199.75,128,8,201.8,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12 Pro 4G,257.89,256,8,201.8,6.67,Android 11,1,5000,395,Qualcomm,0
+oneplus,OnePlus Nord CE 3 Lite,235.0,256,8,195.0,6.72,Android 13,1,5000,391,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12 Pro 4G,269.99,128,8,201.8,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12 Pro 4G,144.99,256,8,201.8,6.67,Android 11,1,5000,395,Qualcomm,0
+oneplus,OnePlus Nord CE 3 Lite,219.87,256,8,195.0,6.72,Android 13,1,5000,391,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12 Pro 4G,344.97,128,8,201.8,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12 Pro 4G,189.0,128,8,201.8,6.67,Android 11,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi 13 Ultra,1349.0,512,12,227.0,6.73,Android 13,1,5000,522,Qualcomm,0
+xiaomi,Xiaomi 13 Ultra,1178.0,512,16,227.0,6.73,Android 13,1,5000,522,Qualcomm,0
+xiaomi,Xiaomi 13 Ultra,1305.0,512,12,227.0,6.73,Android 13,1,5000,522,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 12S,167.95,128,6,176.0,6.43,Android 13,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Redmi Note 12S,169.04,256,8,176.0,6.43,Android 13,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Redmi Note 12S,149.5,128,6,176.0,6.43,Android 13,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Redmi Note 12S,224.44,128,6,176.0,6.43,Android 13,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Redmi Note 12S,127.0,128,6,176.0,6.43,Android 13,1,5000,409,Mediatek,0
+xiaomi,Xiaomi Poco F5 Pro,590.36,256,12,204.0,6.67,Android 13,1,5160,526,Qualcomm,0
+xiaomi,Xiaomi Poco F5 Pro,433.43,512,12,204.0,6.67,Android 13,1,5160,526,Qualcomm,0
+xiaomi,Xiaomi Poco F5,290.39,256,12,181.0,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Poco F5 Pro,490.04,256,12,204.0,6.67,Android 13,1,5160,526,Qualcomm,0
+xiaomi,Xiaomi Poco F5 Pro,459.99,512,12,204.0,6.67,Android 13,1,5160,526,Qualcomm,0
+xiaomi,Xiaomi Poco F5,300.0,256,12,181.0,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Poco F5 Pro,506.09,256,12,204.0,6.67,Android 13,1,5160,526,Qualcomm,0
+xiaomi,Xiaomi Poco F5,463.13,256,12,181.0,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Poco F5 Pro,436.99,256,12,204.0,6.67,Android 13,1,5160,526,Qualcomm,0
+samsung,Samsung Galaxy A24 4G,187.49,128,6,195.0,6.5,Android 13,1,5000,396,Mediatek,0
+xiaomi,Xiaomi Redmi 12,111.61,128,8,198.5,6.79,Android 13,1,5000,396,Mediatek,0
+xiaomi,Xiaomi Redmi 12,157.11,256,8,198.5,6.79,Android 13,1,5000,396,Mediatek,0
+xiaomi,Xiaomi Redmi 12,139.99,128,8,198.5,6.79,Android 13,1,5000,396,Mediatek,0
+xiaomi,Xiaomi Redmi 12,155.25,256,8,198.5,6.79,Android 13,1,5000,396,Mediatek,0
+xiaomi,Xiaomi Redmi 12,127.37,128,8,198.5,6.79,Android 13,1,5000,396,Mediatek,0
+xiaomi,Xiaomi Redmi 12,119.0,128,8,198.5,6.79,Android 13,1,5000,396,Mediatek,0
+google,Google Pixel Fold,1277.8,512,12,283.0,7.6,Android 13,1,4821,378,Google,1
+google,Google Pixel Fold,617.99,512,12,283.0,7.6,Android 13,1,4821,378,Google,1
+google,Google Pixel Fold,949.72,512,12,283.0,7.6,Android 13,1,4821,378,Google,1
+oneplus,OnePlus Nord 3,359.06,256,16,193.5,6.74,Android 13,1,5000,451,Mediatek,0
+oneplus,OnePlus Nord 3,545.12,256,16,193.5,6.74,Android 13,1,5000,451,Mediatek,0
+xiaomi,Xiaomi Redmi 12 5G,162.53,128,6,199.0,6.79,Android 13,0,5000,396,Qualcomm,0
+samsung,Samsung Galaxy Z Fold5,1242.89,512,12,253.0,7.6,Android 13,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Fold5,975.17,1000,12,253.0,7.6,Android 13,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Flip5,523.3,512,8,187.0,6.7,Android 13,1,3700,425,Qualcomm,1
+samsung,Samsung Galaxy Z Fold5,1375.0,512,12,253.0,7.6,Android 13,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Fold5,880.0,1000,12,253.0,7.6,Android 13,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Fold5,1799.99,512,12,253.0,7.6,Android 13,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Fold5,1919.99,1000,12,253.0,7.6,Android 13,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Fold5,1799.99,512,12,253.0,7.6,Android 13,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Flip5,414.99,512,8,187.0,6.7,Android 13,1,3700,425,Qualcomm,1
+samsung,Samsung Galaxy Z Flip5,999.99,512,8,187.0,6.7,Android 13,1,3700,425,Qualcomm,1
+samsung,Samsung Galaxy Z Flip5,999.99,512,8,187.0,6.7,Android 13,1,3700,425,Qualcomm,1
+samsung,Samsung Galaxy Z Fold5,891.17,512,12,253.0,7.6,Android 13,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Fold5,883.38,1000,12,253.0,7.6,Android 13,1,4400,373,Qualcomm,1
+samsung,Samsung Galaxy Z Flip5,554.88,512,8,187.0,6.7,Android 13,1,3700,425,Qualcomm,1
+xiaomi,Xiaomi Redmi Note 13 Pro,279.57,512,12,187.0,6.67,Android 13,1,5100,446,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 13 Pro+,340.25,512,8,199.0,6.67,Android 13,1,5000,446,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13 Pro+,365.16,512,12,199.0,6.67,Android 13,1,5000,446,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13 Pro,275.7,512,12,187.0,6.67,Android 13,1,5100,446,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 13 Pro+,329.05,512,12,199.0,6.67,Android 13,1,5000,446,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13 Pro,331.74,512,12,187.0,6.67,Android 13,1,5100,446,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 13 Pro+,543.75,512,8,199.0,6.67,Android 13,1,5000,446,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13 Pro+,584.15,512,12,199.0,6.67,Android 13,1,5000,446,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13 Pro,219.72,256,8,187.0,6.67,Android 13,1,5100,446,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 13 Pro,218.27,256,12,187.0,6.67,Android 13,1,5100,446,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 13 Pro+,289.12,256,12,199.0,6.67,Android 13,1,5000,446,Mediatek,0
+apple,Apple iPhone 15,746.05,256,6,171.0,6.1,iOS 17,1,3349,461,Apple,0
+apple,Apple iPhone 15,831.11,512,6,171.0,6.1,iOS 17,1,3349,461,Apple,0
+apple,Apple iPhone 15 Pro Max,1083.35,512,8,221.0,6.7,iOS 17,1,4441,460,Apple,0
+apple,Apple iPhone 15 Pro Max,1266.02,1000,8,221.0,6.7,iOS 17,1,4441,460,Apple,0
+apple,Apple iPhone 15 Plus,816.74,256,6,201.0,6.7,iOS 17,1,4383,460,Apple,0
+apple,Apple iPhone 15 Plus,999.08,512,6,201.0,6.7,iOS 17,1,4383,460,Apple,0
+apple,Apple iPhone 15 Pro,970.46,256,8,187.0,6.1,iOS 17,1,3274,461,Apple,0
+apple,Apple iPhone 15 Pro,1063.45,512,8,187.0,6.1,iOS 17,1,3274,461,Apple,0
+apple,Apple iPhone 15 Pro,1208.64,1000,8,187.0,6.1,iOS 17,1,3274,461,Apple,0
+apple,Apple iPhone 15,525.98,256,6,171.0,6.1,iOS 17,1,3349,461,Apple,0
+apple,Apple iPhone 15,716.99,512,6,171.0,6.1,iOS 17,1,3349,461,Apple,0
+apple,Apple iPhone 15,829.99,256,6,171.0,6.1,iOS 17,1,3349,461,Apple,0
+apple,Apple iPhone 15,929.99,512,6,171.0,6.1,iOS 17,1,3349,461,Apple,0
+apple,Apple iPhone 15 Pro Max,788.95,512,8,221.0,6.7,iOS 17,1,4441,460,Apple,0
+apple,Apple iPhone 15 Pro Max,1056.99,1000,8,221.0,6.7,iOS 17,1,4441,460,Apple,0
+apple,Apple iPhone 15 Pro Max,1199.99,512,8,221.0,6.7,iOS 17,1,4441,460,Apple,0
+apple,Apple iPhone 15 Pro Max,1399.99,1000,8,221.0,6.7,iOS 17,1,4441,460,Apple,0
+apple,Apple iPhone 15 Plus,629.99,256,6,201.0,6.7,iOS 17,1,4383,460,Apple,0
+apple,Apple iPhone 15 Plus,726.75,512,6,201.0,6.7,iOS 17,1,4383,460,Apple,0
+apple,Apple iPhone 15 Plus,929.99,256,6,201.0,6.7,iOS 17,1,4383,460,Apple,0
+apple,Apple iPhone 15 Plus,1029.99,512,6,201.0,6.7,iOS 17,1,4383,460,Apple,0
+apple,Apple iPhone 15 Pro,787.49,256,8,187.0,6.1,iOS 17,1,3274,461,Apple,0
+apple,Apple iPhone 15 Pro,827.5,512,8,187.0,6.1,iOS 17,1,3274,461,Apple,0
+apple,Apple iPhone 15 Pro,989.99,1000,8,187.0,6.1,iOS 17,1,3274,461,Apple,0
+apple,Apple iPhone 15 Pro,999.99,256,8,187.0,6.1,iOS 17,1,3274,461,Apple,0
+apple,Apple iPhone 15 Pro,1099.99,512,8,187.0,6.1,iOS 17,1,3274,461,Apple,0
+apple,Apple iPhone 15 Pro,1299.99,1000,8,187.0,6.1,iOS 17,1,3274,461,Apple,0
+apple,Apple iPhone 15,743.52,256,6,171.0,6.1,iOS 17,1,3349,461,Apple,0
+apple,Apple iPhone 15,846.3,512,6,171.0,6.1,iOS 17,1,3349,461,Apple,0
+apple,Apple iPhone 15 Pro Max,1127.97,512,8,221.0,6.7,iOS 17,1,4441,460,Apple,0
+apple,Apple iPhone 15 Pro Max,1208.63,1000,8,221.0,6.7,iOS 17,1,4441,460,Apple,0
+apple,Apple iPhone 15 Plus,827.38,256,6,201.0,6.7,iOS 17,1,4383,460,Apple,0
+apple,Apple iPhone 15 Plus,845.64,512,6,201.0,6.7,iOS 17,1,4383,460,Apple,0
+apple,Apple iPhone 15 Pro,935.42,256,8,187.0,6.1,iOS 17,1,3274,461,Apple,0
+apple,Apple iPhone 15 Pro,1025.84,512,8,187.0,6.1,iOS 17,1,3274,461,Apple,0
+apple,Apple iPhone 15 Pro,1251.47,1000,8,187.0,6.1,iOS 17,1,3274,461,Apple,0
+xiaomi,Xiaomi 13T Pro,498.45,512,12,200.0,6.67,Android 13,1,5000,446,Mediatek,0
+xiaomi,Xiaomi 13T Pro,1465.24,1000,16,200.0,6.67,Android 13,1,5000,446,Mediatek,0
+xiaomi,Xiaomi 13T Pro,539.99,512,12,200.0,6.67,Android 13,1,5000,446,Mediatek,0
+xiaomi,Xiaomi 13T Pro,1199.0,1000,16,200.0,6.67,Android 13,1,5000,446,Mediatek,0
+xiaomi,Xiaomi 13T,529.0,256,12,193.0,6.67,Android 13,1,5000,446,Mediatek,0
+xiaomi,Xiaomi 13T Pro,644.0,512,12,200.0,6.67,Android 13,1,5000,446,Mediatek,0
+xiaomi,Xiaomi 13T,547.71,256,12,193.0,6.67,Android 13,1,5000,446,Mediatek,0
+xiaomi,Xiaomi 13T Pro,899.0,512,12,200.0,6.67,Android 13,1,5000,446,Mediatek,0
+samsung,Samsung Galaxy S23 FE,444.27,256,8,209.0,6.4,Android 13,1,4500,403,Exynos,0
+samsung,Samsung Galaxy S23 FE,269.99,256,8,209.0,6.4,Android 13,1,4500,403,Exynos,0
+samsung,Samsung Galaxy S23 FE,599.99,256,8,209.0,6.4,Android 13,1,4500,403,Exynos,0
+samsung,Samsung Galaxy S23 FE,499.99,256,8,209.0,6.4,Android 13,1,4500,403,Exynos,0
+samsung,Samsung Galaxy S23 FE,429.26,256,8,209.0,6.4,Android 13,1,4500,403,Exynos,0
+google,Google Pixel 8,545.79,256,8,187.0,6.2,Android 14,1,4575,428,Google,0
+google,Google Pixel 8 Pro,650.4,256,12,213.0,6.7,Android 14,1,5050,489,Google,0
+google,Google Pixel 8 Pro,758.95,512,12,213.0,6.7,Android 14,1,5050,489,Google,0
+google,Google Pixel 8 Pro,855.13,1000,12,213.0,6.7,Android 14,1,5050,489,Google,0
+google,Google Pixel 8,374.94,256,8,187.0,6.2,Android 14,1,4575,428,Google,0
+google,Google Pixel 8 Pro,459.95,256,12,213.0,6.7,Android 14,1,5050,489,Google,0
+google,Google Pixel 8 Pro,494.95,512,12,213.0,6.7,Android 14,1,5050,489,Google,0
+google,Google Pixel 8 Pro,609.99,1000,12,213.0,6.7,Android 14,1,5050,489,Google,0
+google,Google Pixel 8 Pro,999.0,256,12,213.0,6.7,Android 14,1,5050,489,Google,0
+google,Google Pixel 8 Pro,1059.0,512,12,213.0,6.7,Android 14,1,5050,489,Google,0
+google,Google Pixel 8 Pro,1179.0,1000,12,213.0,6.7,Android 14,1,5050,489,Google,0
+google,Google Pixel 8,454.05,256,8,187.0,6.2,Android 14,1,4575,428,Google,0
+google,Google Pixel 8 Pro,582.85,256,12,213.0,6.7,Android 14,1,5050,489,Google,0
+google,Google Pixel 8 Pro,753.28,512,12,213.0,6.7,Android 14,1,5050,489,Google,0
+samsung,Samsung Galaxy A05,89.99,128,4,195.0,6.7,Android 13,0,5000,262,Mediatek,0
+samsung,Samsung Galaxy A05,89.99,128,6,195.0,6.7,Android 13,0,5000,262,Mediatek,0
+samsung,Samsung Galaxy A05,109.67,128,6,195.0,6.7,Android 13,0,5000,262,Mediatek,0
+samsung,Samsung Galaxy Tab S9 FE+,796.0,256,12,627.0,12.4,Android 13,0,10090,243,Exynos,0
+samsung,Samsung Galaxy Tab S9 FE,349.99,256,8,523.0,10.9,Android 13,0,8000,249,Exynos,0
+samsung,Samsung Galaxy A05s,119.46,128,4,194.0,6.7,Android 13,1,5000,393,Qualcomm,0
+samsung,Samsung Galaxy A05s,140.89,128,6,194.0,6.7,Android 13,1,5000,393,Qualcomm,0
+samsung,Samsung Galaxy A05s,99.99,128,4,194.0,6.7,Android 13,1,5000,393,Qualcomm,0
+samsung,Samsung Galaxy A05s,122.81,128,4,194.0,6.7,Android 13,1,5000,393,Qualcomm,0
+samsung,Samsung Galaxy A05s,130.1,128,6,194.0,6.7,Android 13,1,5000,393,Qualcomm,0
+xiaomi,Xiaomi 14,754.76,512,12,188.0,6.36,Android 14,1,4610,460,Qualcomm,0
+xiaomi,Xiaomi 14,849.5,512,12,188.0,6.36,Android 14,1,4610,460,Qualcomm,0
+xiaomi,Xiaomi 14,976.88,512,12,188.0,6.36,Android 14,1,4610,460,Qualcomm,0
+xiaomi,Xiaomi 14,153.49,256,12,188.0,6.36,Android 14,1,4610,460,Qualcomm,0
+xiaomi,Xiaomi Poco C65,120.28,256,8,192.0,6.74,Android 13,1,5000,260,Mediatek,0
+xiaomi,Xiaomi Poco C65,137.16,256,8,192.0,6.74,Android 13,1,5000,260,Mediatek,0
+xiaomi,Xiaomi Poco C65,129.89,256,8,192.0,6.74,Android 13,1,5000,260,Mediatek,0
+xiaomi,Xiaomi Poco C65,105.0,256,8,192.0,6.74,Android 13,1,5000,260,Mediatek,0
+xiaomi,Xiaomi Redmi 13C,115.26,128,6,192.0,6.74,Android 13,1,5000,260,Mediatek,0
+xiaomi,Xiaomi Redmi 13C,133.26,256,8,192.0,6.74,Android 13,1,5000,260,Mediatek,0
+xiaomi,Xiaomi Redmi 13C,119.0,128,6,192.0,6.74,Android 13,1,5000,260,Mediatek,0
+xiaomi,Xiaomi Redmi 13C,132.27,256,8,192.0,6.74,Android 13,1,5000,260,Mediatek,0
+xiaomi,Xiaomi Redmi 13C,142.06,128,6,192.0,6.74,Android 13,1,5000,260,Mediatek,0
+xiaomi,Xiaomi Redmi 13C,171.42,256,8,192.0,6.74,Android 13,1,5000,260,Mediatek,0
+xiaomi,Xiaomi Redmi 13C,82.24,128,6,192.0,6.74,Android 13,1,5000,260,Mediatek,0
+oneplus,OnePlus 12,912.54,512,16,220.0,6.82,Android 14,1,5400,510,Qualcomm,0
+oneplus,OnePlus 12,649.99,512,16,220.0,6.82,Android 14,1,5400,510,Qualcomm,0
+oneplus,OnePlus 12,799.99,512,16,220.0,6.82,Android 14,1,5400,510,Qualcomm,0
+oneplus,OnePlus 12,974.45,512,16,220.0,6.82,Android 14,1,5400,510,Qualcomm,0
+samsung,Samsung Galaxy A15,147.46,128,6,200.0,6.5,Android 14,1,5000,396,Mediatek,0
+samsung,Samsung Galaxy A15,215.13,128,8,200.0,6.5,Android 14,1,5000,396,Mediatek,0
+samsung,Samsung Galaxy A15,199.99,256,8,200.0,6.5,Android 14,1,5000,396,Mediatek,0
+samsung,Samsung Galaxy A25,204.49,256,8,197.0,6.5,Android 14,1,5000,396,Exynos,0
+samsung,Samsung Galaxy A15 5G,184.07,128,6,200.0,6.5,Android 14,1,5000,396,Mediatek,0
+xiaomi,Xiaomi Redmi 13C 5G,152.79,128,6,192.0,6.74,Android 13,0,5000,260,Mediatek,0
+samsung,Samsung Galaxy A15,128.99,128,6,200.0,6.5,Android 14,1,5000,396,Mediatek,0
+samsung,Samsung Galaxy A15,134.99,128,8,200.0,6.5,Android 14,1,5000,396,Mediatek,0
+samsung,Samsung Galaxy A25,159.95,256,8,197.0,6.5,Android 14,1,5000,396,Exynos,0
+samsung,Samsung Galaxy A25,299.99,256,8,197.0,6.5,Android 14,1,5000,396,Exynos,0
+samsung,Samsung Galaxy A15 5G,199.99,128,6,200.0,6.5,Android 14,1,5000,396,Mediatek,0
+samsung,Samsung Galaxy A15 5G,139.0,128,8,200.0,6.5,Android 14,1,5000,396,Mediatek,0
+samsung,Samsung Galaxy A15 5G,132.0,256,8,200.0,6.5,Android 14,1,5000,396,Mediatek,0
+xiaomi,Xiaomi Redmi 13C 5G,209.99,128,6,192.0,6.74,Android 13,0,5000,260,Mediatek,0
+samsung,Samsung Galaxy A15,158.71,128,6,200.0,6.5,Android 14,1,5000,396,Mediatek,0
+samsung,Samsung Galaxy A15,189.93,128,8,200.0,6.5,Android 14,1,5000,396,Mediatek,0
+samsung,Samsung Galaxy A25,188.63,256,8,197.0,6.5,Android 14,1,5000,396,Exynos,0
+samsung,Samsung Galaxy A15 5G,193.98,128,6,200.0,6.5,Android 14,1,5000,396,Mediatek,0
+xiaomi,Xiaomi Redmi 13C 5G,159.54,128,6,192.0,6.74,Android 13,0,5000,260,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13,215.6,256,8,174.5,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13,187.5,256,8,174.5,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13,212.5,256,12,174.5,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13,175.64,256,8,174.5,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13,327.41,256,12,174.5,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13,755.0,256,8,174.5,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13,111.0,256,12,174.5,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Poco X6,236.2,256,12,181.0,6.67,Android 13,1,5100,446,Qualcomm,0
+xiaomi,Xiaomi Poco X6,251.4,512,12,181.0,6.67,Android 13,1,5100,446,Qualcomm,0
+xiaomi,Xiaomi Poco X6 Pro,266.25,512,12,186.0,6.67,Android 14,1,5000,446,Mediatek,0
+xiaomi,Xiaomi Poco M6 Pro,186.92,512,12,179.0,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Poco X6,242.99,256,12,181.0,6.67,Android 13,1,5100,446,Qualcomm,0
+xiaomi,Xiaomi Poco X6,252.99,512,12,181.0,6.67,Android 13,1,5100,446,Qualcomm,0
+xiaomi,Xiaomi Poco X6 Pro,282.5,256,12,186.0,6.67,Android 14,1,5000,446,Mediatek,0
+xiaomi,Xiaomi Poco X6 Pro,321.99,512,12,186.0,6.67,Android 14,1,5000,446,Mediatek,0
+xiaomi,Xiaomi Poco M6 Pro,187.5,512,12,179.0,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Poco X6,366.87,256,12,181.0,6.67,Android 13,1,5100,446,Qualcomm,0
+xiaomi,Xiaomi Poco X6,827.44,512,12,181.0,6.67,Android 13,1,5100,446,Qualcomm,0
+xiaomi,Xiaomi Poco X6 Pro,334.7,256,12,186.0,6.67,Android 14,1,5000,446,Mediatek,0
+xiaomi,Xiaomi Poco X6 Pro,389.0,512,12,186.0,6.67,Android 14,1,5000,446,Mediatek,0
+xiaomi,Xiaomi Poco M6 Pro,232.88,512,12,179.0,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Poco X6,235.37,256,12,181.0,6.67,Android 13,1,5100,446,Qualcomm,0
+xiaomi,Xiaomi Poco X6,228.0,512,12,181.0,6.67,Android 13,1,5100,446,Qualcomm,0
+xiaomi,Xiaomi Poco X6 Pro,369.0,256,12,186.0,6.67,Android 14,1,5000,446,Mediatek,0
+xiaomi,Xiaomi Poco X6 Pro,342.77,512,12,186.0,6.67,Android 14,1,5000,446,Mediatek,0
+xiaomi,Xiaomi Poco M6 Pro,174.49,512,12,179.0,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13 Pro 4G,308.1,256,8,188.0,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13 Pro 4G,214.26,512,12,188.0,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13 4G,152.96,128,8,188.5,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 13 4G,175.45,256,8,188.5,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 13 Pro 4G,213.0,256,8,188.0,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13 Pro 4G,262.5,512,12,188.0,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13 4G,133.7,128,8,188.5,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 13 4G,169.99,256,8,188.5,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 13 Pro 4G,329.15,256,8,188.0,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13 Pro 4G,320.05,512,12,188.0,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13 4G,178.24,256,8,188.5,6.67,Android 13,1,5000,395,Qualcomm,0
+xiaomi,Xiaomi Redmi Note 13 Pro 4G,262.05,256,8,188.0,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13 Pro 4G,200.0,512,12,188.0,6.67,Android 13,1,5000,395,Mediatek,0
+xiaomi,Xiaomi Redmi Note 13 4G,169.0,128,8,188.5,6.67,Android 13,1,5000,395,Qualcomm,0
+samsung,Samsung Galaxy S24 Ultra,1104.19,512,12,232.0,6.8,Android 14,1,5000,505,Qualcomm,0
+samsung,Samsung Galaxy S24 Ultra,1243.97,1000,12,232.0,6.8,Android 14,1,5000,505,Qualcomm,0
+samsung,Samsung Galaxy S24+,866.51,512,12,196.0,6.7,Android 14,1,4900,513,Qualcomm,0
+samsung,Samsung Galaxy S24,670.75,256,8,167.0,6.2,Android 14,1,4000,416,Qualcomm,0
+samsung,Samsung Galaxy S24,758.41,512,8,167.0,6.2,Android 14,1,4000,416,Qualcomm,0
+samsung,Samsung Galaxy S24 Ultra,729.95,512,12,232.0,6.8,Android 14,1,5000,505,Qualcomm,0
+samsung,Samsung Galaxy S24 Ultra,898.94,1000,12,232.0,6.8,Android 14,1,5000,505,Qualcomm,0
+samsung,Samsung Galaxy S24 Ultra,1049.99,512,12,232.0,6.8,Android 14,1,5000,505,Qualcomm,0
+samsung,Samsung Galaxy S24 Ultra,1219.99,1000,12,232.0,6.8,Android 14,1,5000,505,Qualcomm,0
+samsung,Samsung Galaxy S24 Ultra,1219.99,512,12,232.0,6.8,Android 14,1,5000,505,Qualcomm,0
+samsung,Samsung Galaxy S24+,569.95,512,12,196.0,6.7,Android 14,1,4900,513,Qualcomm,0
+samsung,Samsung Galaxy S24+,999.99,512,12,196.0,6.7,Android 14,1,4900,513,Qualcomm,0
+samsung,Samsung Galaxy S24,469.98,256,8,167.0,6.2,Android 14,1,4000,416,Qualcomm,0
+samsung,Samsung Galaxy S24,614.5,512,8,167.0,6.2,Android 14,1,4000,416,Qualcomm,0
+samsung,Samsung Galaxy S24,719.99,256,8,167.0,6.2,Android 14,1,4000,416,Qualcomm,0
+samsung,Samsung Galaxy S24,779.99,512,8,167.0,6.2,Android 14,1,4000,416,Qualcomm,0
+samsung,Samsung Galaxy S24,859.99,256,8,167.0,6.2,Android 14,1,4000,416,Qualcomm,0
+samsung,Samsung Galaxy S24 Ultra,1001.73,512,12,232.0,6.8,Android 14,1,5000,505,Qualcomm,0
+samsung,Samsung Galaxy S24 Ultra,1182.61,1000,12,232.0,6.8,Android 14,1,5000,505,Qualcomm,0
+samsung,Samsung Galaxy S24+,948.36,512,12,196.0,6.7,Android 14,1,4900,513,Qualcomm,0
+samsung,Samsung Galaxy S24,670.0,256,8,167.0,6.2,Android 14,1,4000,416,Qualcomm,0
+samsung,Samsung Galaxy S24,780.59,512,8,167.0,6.2,Android 14,1,4000,416,Qualcomm,0
+oneplus,OnePlus 12R,605.52,256,16,207.0,6.78,Android 14,1,5500,450,Qualcomm,0
+oneplus,OnePlus 12R,429.99,256,16,207.0,6.78,Android 14,1,5500,450,Qualcomm,0
+oneplus,OnePlus 12R,499.99,256,16,207.0,6.78,Android 14,1,5500,450,Qualcomm,0
+oneplus,OnePlus 12R,646.6,256,16,207.0,6.78,Android 14,1,5500,450,Qualcomm,0
+xiaomi,Xiaomi 14 Ultra,1168.12,512,16,229.5,6.73,Android 14,1,5000,522,Qualcomm,0
+xiaomi,Xiaomi 14 Ultra,1075.0,512,16,229.5,6.73,Android 14,1,5000,522,Qualcomm,0
+xiaomi,Xiaomi 14 Ultra,1345.06,512,16,229.5,6.73,Android 14,1,5000,522,Qualcomm,0
+xiaomi,Xiaomi Redmi A3,78.57,128,4,193.0,6.71,Android 14,1,5000,268,Mediatek,0
+xiaomi,Xiaomi Redmi A3,107.28,128,6,193.0,6.71,Android 14,1,5000,268,Mediatek,0
+xiaomi,Xiaomi Redmi A3,84.5,128,4,193.0,6.71,Android 14,1,5000,268,Mediatek,0
+xiaomi,Xiaomi Redmi A3,94.0,128,6,193.0,6.71,Android 14,1,5000,268,Mediatek,0
+xiaomi,Xiaomi Redmi A3,161.07,128,4,193.0,6.71,Android 14,1,5000,268,Mediatek,0
+samsung,Samsung Galaxy A35,266.48,128,8,209.0,6.6,Android 14,1,5000,390,Exynos,0
+samsung,Samsung Galaxy A35,313.12,256,8,209.0,6.6,Android 14,1,5000,390,Exynos,0
+samsung,Samsung Galaxy A55,345.67,256,8,213.0,6.6,Android 14,1,5000,390,Exynos,0
+samsung,Samsung Galaxy A55,380.29,256,12,213.0,6.6,Android 14,1,5000,390,Exynos,0
+samsung,Samsung Galaxy A35,249.99,128,8,209.0,6.6,Android 14,1,5000,390,Exynos,0
+samsung,Samsung Galaxy A35,248.87,256,8,209.0,6.6,Android 14,1,5000,390,Exynos,0
+samsung,Samsung Galaxy A35,399.99,128,8,209.0,6.6,Android 14,1,5000,390,Exynos,0
+samsung,Samsung Galaxy A55,299.99,256,8,213.0,6.6,Android 14,1,5000,390,Exynos,0
+samsung,Samsung Galaxy A55,311.5,256,12,213.0,6.6,Android 14,1,5000,390,Exynos,0
+samsung,Samsung Galaxy A35,223.77,128,8,209.0,6.6,Android 14,1,5000,390,Exynos,0
+samsung,Samsung Galaxy A35,273.2,256,8,209.0,6.6,Android 14,1,5000,390,Exynos,0
+samsung,Samsung Galaxy A55,330.45,256,8,213.0,6.6,Android 14,1,5000,390,Exynos,0
+samsung,Samsung Galaxy A55,624.52,256,12,213.0,6.6,Android 14,1,5000,390,Exynos,0
+samsung,Samsung Galaxy M55,354.32,256,8,180.0,6.7,Android 14,1,5000,393,Qualcomm,0
+samsung,Samsung Galaxy M55,370.17,256,8,180.0,6.7,Android 14,1,5000,393,Qualcomm,0
+samsung,Samsung Galaxy M15,160.9,128,6,217.0,6.5,Android 14,1,6000,396,Mediatek,0
+samsung,Samsung Galaxy M15,175.62,128,6,217.0,6.5,Android 14,1,6000,396,Mediatek,0
+google,Google Pixel 8a,458.08,256,8,188.0,6.1,Android 14,1,4492,430,Google,0
+google,Google Pixel 8a,332.0,256,8,188.0,6.1,Android 14,1,4492,430,Google,0
+google,Google Pixel 8a,396.8,256,8,188.0,6.1,Android 14,1,4492,430,Google,0
+xiaomi,Xiaomi Poco F6 Pro,448.69,512,12,209.0,6.67,Android 14,1,5000,526,Qualcomm,0
+xiaomi,Xiaomi Poco F6 Pro,469.2,1000,16,209.0,6.67,Android 14,1,5000,526,Qualcomm,0
+xiaomi,Xiaomi Poco F6,341.33,512,12,179.0,6.67,Android 14,1,5000,446,Qualcomm,0
+xiaomi,Xiaomi Poco F6 Pro,469.99,512,12,209.0,6.67,Android 14,1,5000,526,Qualcomm,0
+xiaomi,Xiaomi Poco F6 Pro,481.49,1000,16,209.0,6.67,Android 14,1,5000,526,Qualcomm,0
+xiaomi,Xiaomi Poco F6,364.89,512,12,179.0,6.67,Android 14,1,5000,446,Qualcomm,0
+xiaomi,Xiaomi Poco F6 Pro,503.29,512,12,209.0,6.67,Android 14,1,5000,526,Qualcomm,0
+xiaomi,Xiaomi Poco F6 Pro,535.61,1000,16,209.0,6.67,Android 14,1,5000,526,Qualcomm,0
+xiaomi,Xiaomi Poco F6,363.02,512,12,179.0,6.67,Android 14,1,5000,446,Qualcomm,0
+samsung,Samsung Galaxy M35,250.31,256,8,222.0,6.6,Android 14,1,6000,390,Exynos,0
+xiaomi,Xiaomi Redmi A3x,91.0,128,4,193.0,6.71,Android 14,0,5000,268,Unisoc,0
+xiaomi,Xiaomi Redmi 13,129.92,256,8,205.0,6.79,Android 14,1,5030,396,Mediatek,0
+xiaomi,Xiaomi Redmi 13,159.0,256,8,205.0,6.79,Android 14,1,5030,396,Mediatek,0
+xiaomi,Xiaomi Redmi 13,143.1,256,8,205.0,6.79,Android 14,1,5030,396,Mediatek,0
+xiaomi,Xiaomi Redmi 13,159.0,256,8,205.0,6.79,Android 14,1,5030,396,Mediatek,0
+xiaomi,Xiaomi Poco M6 4G,135.45,256,8,205.0,6.79,Android 14,1,5030,396,Mediatek,0
+xiaomi,Xiaomi Poco M6 4G,167.25,256,8,205.0,6.79,Android 14,1,5030,396,Mediatek,0
+xiaomi,Xiaomi Poco M6 4G,147.98,256,8,205.0,6.79,Android 14,1,5030,396,Mediatek,0
+xiaomi,Xiaomi Poco M6 4G,154.69,256,8,205.0,6.79,Android 14,1,5030,396,Mediatek,0
+xiaomi,Xiaomi Mix Flip,1999.0,512,12,190.0,6.86,Android 14,1,4780,460,Qualcomm,1
+samsung,Samsung Galaxy Z Flip6,731.44,512,12,187.0,6.7,Android 14,1,4000,426,Qualcomm,1
+samsung,Samsung Galaxy Z Fold6,1278.54,512,12,239.0,7.6,Android 14,1,4400,374,Qualcomm,1
+samsung,Samsung Galaxy Z Fold6,1481.28,1000,12,239.0,7.6,Android 14,1,4400,374,Qualcomm,1
+samsung,Samsung Galaxy Z Flip6,1099.99,512,12,187.0,6.7,Android 14,1,4000,426,Qualcomm,1
+samsung,Samsung Galaxy Z Flip6,1099.99,512,12,187.0,6.7,Android 14,1,4000,426,Qualcomm,1
+samsung,Samsung Galaxy Z Fold6,1899.99,512,12,239.0,7.6,Android 14,1,4400,374,Qualcomm,1
+samsung,Samsung Galaxy Z Fold6,1899.99,1000,12,239.0,7.6,Android 14,1,4400,374,Qualcomm,1
+samsung,Samsung Galaxy Z Fold6,1899.99,512,12,239.0,7.6,Android 14,1,4400,374,Qualcomm,1
+samsung,Samsung Galaxy Z Fold6,2019.99,1000,12,239.0,7.6,Android 14,1,4400,374,Qualcomm,1
+samsung,Samsung Galaxy Z Flip6,943.22,512,12,187.0,6.7,Android 14,1,4000,426,Qualcomm,1
+samsung,Samsung Galaxy Z Fold6,1821.39,512,12,239.0,7.6,Android 14,1,4400,374,Qualcomm,1
+samsung,Samsung Galaxy Z Fold6,2028.26,1000,12,239.0,7.6,Android 14,1,4400,374,Qualcomm,1
+oneplus,OnePlus Nord 4,484.37,512,16,199.5,6.74,Android 14,1,5500,450,Qualcomm,0
+oneplus,OnePlus Nord 4,558.13,512,16,199.5,6.74,Android 14,1,5500,450,Qualcomm,0
+google,Google Pixel 9,805.95,256,12,198.0,6.3,Android 14,1,4700,422,Google,0
+google,Google Pixel 9 Pro XL,1041.3,256,16,221.0,6.8,Android 14,1,5060,486,Google,0
+google,Google Pixel 9 Pro XL,1165.93,512,16,221.0,6.8,Android 14,1,5060,486,Google,0
+google,Google Pixel 9 Pro XL,1504.98,1000,16,221.0,6.8,Android 14,1,5060,486,Google,0
+google,Google Pixel 9,754.99,256,12,198.0,6.3,Android 14,1,4700,422,Google,0
+google,Google Pixel 9 Pro XL,1059.89,256,16,221.0,6.8,Android 14,1,5060,486,Google,0
+google,Google Pixel 9 Pro XL,1199.0,512,16,221.0,6.8,Android 14,1,5060,486,Google,0
+google,Google Pixel 9 Pro XL,1319.0,1000,16,221.0,6.8,Android 14,1,5060,486,Google,0
+samsung,Samsung Galaxy A06,125.0,128,6,189.0,6.7,Android 14,0,5000,262,Mediatek,0
+google,Google Pixel 9,1039.5,256,12,198.0,6.3,Android 14,1,4700,422,Google,0
+google,Google Pixel 9 Pro XL,1429.8,256,16,221.0,6.8,Android 14,1,5060,486,Google,0
+google,Google Pixel 9 Pro XL,1546.42,512,16,221.0,6.8,Android 14,1,5060,486,Google,0
+google,Google Pixel 9 Pro XL,1716.02,1000,16,221.0,6.8,Android 14,1,5060,486,Google,0
+xiaomi,Xiaomi Redmi 14C,150.62,128,6,211.0,6.88,Android 14,1,5160,260,Mediatek,0
+xiaomi,Xiaomi Redmi 14C,214.07,128,8,211.0,6.88,Android 14,1,5160,260,Mediatek,0
+xiaomi,Xiaomi Redmi 14C,271.8,128,6,211.0,6.88,Android 14,1,5160,260,Mediatek,0
+google,Google Pixel 9 Pro Fold,2049.08,512,16,257.0,8.0,Android 14,1,4650,373,Google,1
+google,Google Pixel 9 Pro Fold,1799.0,512,16,257.0,8.0,Android 14,1,4650,373,Google,1
+google,Google Pixel 9 Pro Fold,2275.45,512,16,257.0,8.0,Android 14,1,4650,373,Google,1
+google,Google Pixel 9 Pro,1102.6,256,16,199.0,6.3,Android 14,1,4700,495,Google,0
+google,Google Pixel 9 Pro,1276.63,512,16,199.0,6.3,Android 14,1,4700,495,Google,0
+google,Google Pixel 9 Pro,1440.1,1000,16,199.0,6.3,Android 14,1,4700,495,Google,0
+google,Google Pixel 9 Pro,1082.97,256,16,199.0,6.3,Android 14,1,4700,495,Google,0
+google,Google Pixel 9 Pro,1299.7,256,16,199.0,6.3,Android 14,1,4700,495,Google,0
+google,Google Pixel 9 Pro,1429.8,512,16,199.0,6.3,Android 14,1,4700,495,Google,0
+google,Google Pixel 9 Pro,1585.92,1000,16,199.0,6.3,Android 14,1,4700,495,Google,0
+apple,Apple iPhone 16 Pro,1362.07,256,8,199.0,6.3,iOS 18,1,3582,460,Apple,0
+apple,Apple iPhone 16 Pro,1497.52,512,8,199.0,6.3,iOS 18,1,3582,460,Apple,0
+apple,Apple iPhone 16 Pro,1711.0,1000,8,199.0,6.3,iOS 18,1,3582,460,Apple,0
+apple,Apple iPhone 16 Pro Max,1570.14,512,8,227.0,6.9,iOS 18,1,4685,460,Apple,0
+apple,Apple iPhone 16,1028.34,256,8,170.0,6.1,iOS 18,1,3561,460,Apple,0
+apple,Apple iPhone 16,1169.2,512,8,170.0,6.1,iOS 18,1,3561,460,Apple,0
+apple,Apple iPhone 16 Plus,1190.88,256,8,199.0,6.7,iOS 18,1,4674,460,Apple,0
+apple,Apple iPhone 16 Plus,1331.74,512,8,199.0,6.7,iOS 18,1,4674,460,Apple,0
+apple,Apple iPhone 16 Pro,999.99,256,8,199.0,6.3,iOS 18,1,3582,460,Apple,0
+apple,Apple iPhone 16 Pro,1099.99,512,8,199.0,6.3,iOS 18,1,3582,460,Apple,0
+apple,Apple iPhone 16 Pro,1299.99,1000,8,199.0,6.3,iOS 18,1,3582,460,Apple,0
+apple,Apple iPhone 16 Pro Max,1199.99,512,8,227.0,6.9,iOS 18,1,4685,460,Apple,0
+apple,Apple iPhone 16 Pro Max,1399.99,1000,8,227.0,6.9,iOS 18,1,4685,460,Apple,0
+apple,Apple iPhone 16,829.99,256,8,170.0,6.1,iOS 18,1,3561,460,Apple,0
+apple,Apple iPhone 16,929.99,512,8,170.0,6.1,iOS 18,1,3561,460,Apple,0
+apple,Apple iPhone 16 Plus,929.99,256,8,199.0,6.7,iOS 18,1,4674,460,Apple,0
+apple,Apple iPhone 16 Plus,1029.99,512,8,199.0,6.7,iOS 18,1,4674,460,Apple,0
+apple,Apple iPhone 16 Pro,1429.8,256,8,199.0,6.3,iOS 18,1,3582,460,Apple,0
+apple,Apple iPhone 16 Pro,1690.0,512,8,199.0,6.3,iOS 18,1,3582,460,Apple,0
+apple,Apple iPhone 16,1039.5,256,8,170.0,6.1,iOS 18,1,3561,460,Apple,0
+apple,Apple iPhone 16,1169.6,512,8,170.0,6.1,iOS 18,1,3561,460,Apple,0
+apple,Apple iPhone 16 Plus,1169.6,256,8,199.0,6.7,iOS 18,1,4674,460,Apple,0
+apple,Apple iPhone 16 Plus,1299.7,512,8,199.0,6.7,iOS 18,1,4674,460,Apple,0
+xiaomi,Xiaomi 14T,704.23,512,12,193.0,6.67,Android 14,1,5000,446,Mediatek,0
+xiaomi,Xiaomi 14T Pro,828.3,512,12,209.0,6.67,Android 14,1,5000,446,Mediatek,0
+xiaomi,Xiaomi 14T,942.08,512,12,193.0,6.67,Android 14,1,5000,446,Mediatek,0
+xiaomi,Xiaomi 14T Pro,909.4,512,12,209.0,6.67,Android 14,1,5000,446,Mediatek,0
+samsung,Samsung Galaxy S24 FE,811.62,256,8,213.0,6.7,Android 14,1,4700,385,Exynos,0
+samsung,Samsung Galaxy S24 FE,876.63,512,8,213.0,6.7,Android 14,1,4700,385,Exynos,0
+samsung,Samsung Galaxy S24 FE,649.99,256,8,213.0,6.7,Android 14,1,4700,385,Exynos,0
+samsung,Samsung Galaxy S24 FE,709.99,512,8,213.0,6.7,Android 14,1,4700,385,Exynos,0
+samsung,Samsung Galaxy S24 FE,649.99,256,8,213.0,6.7,Android 14,1,4700,385,Exynos,0
+samsung,Samsung Galaxy S24 FE,709.99,512,8,213.0,6.7,Android 14,1,4700,385,Exynos,0
+samsung,Samsung Galaxy S24 FE,844.35,256,8,213.0,6.7,Android 14,1,4700,385,Exynos,0
+samsung,Samsung Galaxy S24 FE,909.4,512,8,213.0,6.7,Android 14,1,4700,385,Exynos,0
