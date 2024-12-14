@@ -2,7 +2,8 @@ import React from 'react';
 import FoldableFilter from './filters/FoldableFilter';
 import StorageFilter from './filters/StorageFilter';
 import RamFilter from './filters/RamFilter';
-import YearFilter from './filters/YearFilter'; // Import new component
+import YearFilter from './filters/YearFilter';
+import PriceFilter from './filters/PriceFilter';
 import { useSharedState } from './SharedStateProvider';
 
 export default function FeatureMenu() {
@@ -51,7 +52,8 @@ export default function FeatureMenu() {
             <FoldableFilter />
             <StorageFilter />
             <RamFilter />
-            <YearFilter /> {/* Add Year filter */}
+            <YearFilter />
+            <PriceFilter /> {/* Add Price filter */}
             <ul className="mt-4 flex flex-col gap-2">
                 {filteredFeatures.length > 0 ? (
                     filteredFeatures.map((feature) => (

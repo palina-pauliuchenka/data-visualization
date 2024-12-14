@@ -12,7 +12,8 @@ export const SharedStateProvider = ({ children }) => {
     const [foldableFilter, setFoldableFilter] = useState('Default');
     const [storageFilter, setStorageFilter] = useState(0);
     const [ramFilter, setRamFilter] = useState(0);
-    const [yearFilter, setYearFilter] = useState([2017, 2024]); // New state for year range
+    const [yearFilter, setYearFilter] = useState([2017, 2024]);
+    const [priceFilter, setPriceFilter] = useState([0, 2500]); // New state for price range
 
     // Update filtered phones based on selected filters
     useEffect(() => {
@@ -49,8 +50,17 @@ export const SharedStateProvider = ({ children }) => {
             });
         }
 
+        // Filter by price range
+        if (priceFilter.length === 2) {
+            const [minPrice, maxPrice] = priceFilter;
+            filtered = filtered.filter((phone) => {
+                const price = parseFloat(phone.price);
+                return price >= minPrice && price <= maxPrice;
+            });
+        }
+
         setFilteredPhones(filtered);
-    }, [phones, checkedBrands, allSelected, foldableFilter, storageFilter, ramFilter, yearFilter]);
+    }, [phones, checkedBrands, allSelected, foldableFilter, storageFilter, ramFilter, yearFilter, priceFilter]);
 
     return (
         <SharedStateContext.Provider
@@ -74,6 +84,8 @@ export const SharedStateProvider = ({ children }) => {
                 setRamFilter,
                 yearFilter,
                 setYearFilter,
+                priceFilter,
+                setPriceFilter,
             }}
         >
             {children}
