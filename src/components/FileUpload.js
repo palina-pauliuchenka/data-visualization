@@ -27,19 +27,21 @@ export default function FileUpload() {
                 const columns = row.split(',').map((col) => col.trim()); // Trim all columns
 
                 // Extract relevant data from the columns
-                const brand = columns[0] || '';
-                const phoneModel = columns[1] || '';
-                const price = columns[3] || '';
-                const currency = columns[4] || '';
-                const priceUSD = columns[5] || '';
-                const storage = columns[6] || '';
-                const ram = columns[7] || '';
-                const launch = columns[8] || '';
-                const dimension = columns[9] || '';
-                const weight = columns[10] || '';
-                const displayType = columns[11] || '';
-                const displaySize = columns[12] || '';
-                const foldable = columns[25] || '';  // Adjust based on your CSV structure
+                const brand = columns[0] || '';         //0
+                const phoneModel = columns[1] || '';    //1
+                const price = columns[2] || '';         //2
+                const storage = columns[3] || '';       //3
+                const ram = columns[4] || '';           //4
+                const weight = columns[5] || '';        //5
+                const displaySize = columns[6] || '';   //6
+                const OS = columns[7] || '';            //7
+                const NFC = columns[8] || '';           //8
+                const battery = columns[9] || '';       //9
+                const ppi = columns[10] || '';          //10
+                const chipset = columns[11] || '';      //11
+                const foldable = columns[12] || '';     //12
+                const year = columns[13] || '';         //13
+                const colors = columns[14] || '';       //14
 
                 // Only add valid data entries
                 if (brand && phoneModel) {
@@ -48,21 +50,21 @@ export default function FileUpload() {
                         brand,
                         model: phoneModel,
                         price,
-                        currency,
-                        priceUSD,
                         storage,
                         ram,
-                        launch,
-                        dimension,
                         weight,
-                        displayType,
-                        displaySize,
+                        size: displaySize,
+                        OS,
+                        NFC,
+                        battery,
+                        ppi,
+                        chipset,
                         foldable,
+                        year,
+                        colors,
                     });
                 }
             });
-
-            // Update shared state with the extracted data
             setBrands([...brandSet]);
             setPhones(phoneList);
         };
