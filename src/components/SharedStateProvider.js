@@ -9,13 +9,11 @@ export const SharedStateProvider = ({ children }) => {
     const [checkedBrands, setCheckedBrands] = useState({});
     const [allSelected, setAllSelected] = useState(true);
     const [filteredPhones, setFilteredPhones] = useState([]);
-    const [foldableFilter, setFoldableFilter] = useState('Default'); // New state for foldability filter
+    const [foldableFilter, setFoldableFilter] = useState('Default');
+    const [storageFilter, setStorageFilter] = useState(0); // New state for storage
 
     // Update filtered phones based on selected filters
     useEffect(() => {
-        console.log('Foldable Filter:', foldableFilter); // Debugging log
-        console.log('Checked Brands:', checkedBrands); // Debugging log
-
         let filtered = phones;
 
         // Filter by brand
@@ -25,14 +23,18 @@ export const SharedStateProvider = ({ children }) => {
 
         // Filter by foldability
         if (foldableFilter === 'Yes') {
-            filtered = filtered.filter((phone) => phone.foldable === '1'); // Ensure foldable is a string
+            filtered = filtered.filter((phone) => phone.foldable === '1');
         } else if (foldableFilter === 'No') {
-            filtered = filtered.filter((phone) => phone.foldable === '0'); // Ensure foldable is a string
+            filtered = filtered.filter((phone) => phone.foldable === '0');
         }
 
-        console.log('Filtered Phones:', filtered); // Debugging log
+        // Filter by storage
+        if (storageFilter > 0) {
+            filtered = filtered.filter((phone) => parseInt(phone.storage) === storageFilter);
+        }
+
         setFilteredPhones(filtered);
-    }, [phones, checkedBrands, allSelected, foldableFilter]);
+    }, [phones, checkedBrands, allSelected, foldableFilter, storageFilter]);
 
     return (
         <SharedStateContext.Provider
@@ -50,6 +52,8 @@ export const SharedStateProvider = ({ children }) => {
                 filteredPhones,
                 foldableFilter,
                 setFoldableFilter,
+                storageFilter,
+                setStorageFilter,
             }}
         >
             {children}

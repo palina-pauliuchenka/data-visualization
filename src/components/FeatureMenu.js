@@ -1,5 +1,6 @@
 import React from 'react';
-import FoldableFilter from './filters/FoldableFilter'; // Adjust path if needed
+import FoldableFilter from './filters/FoldableFilter';
+import StorageFilter from './filters/StorageFilter'; // Import new component
 import { useSharedState } from './SharedStateProvider';
 
 export default function FeatureMenu() {
@@ -32,7 +33,7 @@ export default function FeatureMenu() {
     };
 
     const capitalizeLabel = (label) => {
-        return label.charAt(0).toUpperCase() + label.slice(1); // Capitalize the first letter
+        return label.charAt(0).toUpperCase() + label.slice(1);
     };
 
     const filteredFeatures = Object.keys(displayMapping)
@@ -46,6 +47,7 @@ export default function FeatureMenu() {
         <aside className="p-4 border-r-2 w-64">
             <h3 className="font-bold mb-4">Features</h3>
             <FoldableFilter />
+            <StorageFilter /> {/* Add storage filter */}
             <ul className="mt-4 flex flex-col gap-2">
                 {filteredFeatures.length > 0 ? (
                     filteredFeatures.map((feature) => (
