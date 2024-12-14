@@ -10,7 +10,9 @@ export const SharedStateProvider = ({ children }) => {
     const [allSelected, setAllSelected] = useState(true);
     const [filteredPhones, setFilteredPhones] = useState([]);
     const [foldableFilter, setFoldableFilter] = useState('Default');
-    const [storageFilter, setStorageFilter] = useState(0); // New state for storage
+    const [storageFilter, setStorageFilter] = useState(0);
+    const [ramFilter, setRamFilter] = useState(0);
+    const [yearFilter, setYearFilter] = useState([2017, 2024]); // New state for year range
 
     // Update filtered phones based on selected filters
     useEffect(() => {
@@ -33,8 +35,22 @@ export const SharedStateProvider = ({ children }) => {
             filtered = filtered.filter((phone) => parseInt(phone.storage) === storageFilter);
         }
 
+        // Filter by RAM
+        if (ramFilter > 0) {
+            filtered = filtered.filter((phone) => parseInt(phone.ram) === ramFilter);
+        }
+
+        // Filter by year range
+        if (yearFilter.length === 2) {
+            const [minYear, maxYear] = yearFilter;
+            filtered = filtered.filter((phone) => {
+                const year = parseInt(phone.year);
+                return year >= minYear && year <= maxYear;
+            });
+        }
+
         setFilteredPhones(filtered);
-    }, [phones, checkedBrands, allSelected, foldableFilter, storageFilter]);
+    }, [phones, checkedBrands, allSelected, foldableFilter, storageFilter, ramFilter, yearFilter]);
 
     return (
         <SharedStateContext.Provider
@@ -54,6 +70,10 @@ export const SharedStateProvider = ({ children }) => {
                 setFoldableFilter,
                 storageFilter,
                 setStorageFilter,
+                ramFilter,
+                setRamFilter,
+                yearFilter,
+                setYearFilter,
             }}
         >
             {children}
