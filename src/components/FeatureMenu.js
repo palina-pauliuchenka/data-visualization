@@ -1,8 +1,9 @@
 import React from 'react';
+import FoldableFilter from './filters/FoldableFilter'; // Adjust path if needed
 import { useSharedState } from './SharedStateProvider';
 
 export default function FeatureMenu() {
-    const { columns } = useSharedState(); // Access shared state for columns
+    const { columns } = useSharedState();
 
     const displayMapping = {
         Foldable: 'Foldable',
@@ -26,7 +27,7 @@ export default function FeatureMenu() {
         Chipset: 'Chipset',
         CPU: 'CPU',
         GPU: 'GPU',
-        Year: 'Year', // This will only be shown if it's in the uploaded file
+        Year: 'Year',
         price_range: 'Price Range',
     };
 
@@ -34,17 +35,18 @@ export default function FeatureMenu() {
         return label.charAt(0).toUpperCase() + label.slice(1); // Capitalize the first letter
     };
 
-    // Filter the columns that exist in the displayMapping, preserving order
-    const filteredFeatures = Object.keys(displayMapping) // Get the keys from displayMapping
-        .filter((col) => columns.includes(col)) // Filter based on columns that exist
+    const filteredFeatures = Object.keys(displayMapping)
+        .filter((col) => columns.includes(col))
         .map((col) => ({
-            key: col, // Unique key for the column
-            label: capitalizeLabel(displayMapping[col]), // Capitalize label
+            key: col,
+            label: capitalizeLabel(displayMapping[col]),
         }));
 
     return (
-        <aside className="p-4 pt-8 pr-16 w-fit border-r-2">
-            <ul className="flex flex-col gap-4">
+        <aside className="p-4 border-r-2 w-64">
+            <h3 className="font-bold mb-4">Features</h3>
+            <FoldableFilter />
+            <ul className="mt-4 flex flex-col gap-2">
                 {filteredFeatures.length > 0 ? (
                     filteredFeatures.map((feature) => (
                         <li key={feature.key} className="text-sm font-medium">
@@ -52,7 +54,7 @@ export default function FeatureMenu() {
                         </li>
                     ))
                 ) : (
-                    <li>No features available</li> // Fallback if no filters match
+                    <li>No features available</li>
                 )}
             </ul>
         </aside>

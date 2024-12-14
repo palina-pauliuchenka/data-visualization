@@ -9,17 +9,30 @@ export const SharedStateProvider = ({ children }) => {
     const [checkedBrands, setCheckedBrands] = useState({});
     const [allSelected, setAllSelected] = useState(true);
     const [filteredPhones, setFilteredPhones] = useState([]);
+    const [foldableFilter, setFoldableFilter] = useState('Default'); // New state for foldability filter
 
-    // Update filtered phones based on selected brands
+    // Update filtered phones based on selected filters
     useEffect(() => {
-        if (allSelected || Object.keys(checkedBrands).length === 0) {
-            setFilteredPhones(phones); // Show all phones
-        } else {
-            setFilteredPhones(
-                phones.filter((phone) => checkedBrands[phone.brand])
-            );
+        console.log('Foldable Filter:', foldableFilter); // Debugging log
+        console.log('Checked Brands:', checkedBrands); // Debugging log
+
+        let filtered = phones;
+
+        // Filter by brand
+        if (!allSelected && Object.keys(checkedBrands).length > 0) {
+            filtered = filtered.filter((phone) => checkedBrands[phone.brand]);
         }
-    }, [phones, checkedBrands, allSelected]);
+
+        // Filter by foldability
+        if (foldableFilter === 'Yes') {
+            filtered = filtered.filter((phone) => phone.foldable === '1'); // Ensure foldable is a string
+        } else if (foldableFilter === 'No') {
+            filtered = filtered.filter((phone) => phone.foldable === '0'); // Ensure foldable is a string
+        }
+
+        console.log('Filtered Phones:', filtered); // Debugging log
+        setFilteredPhones(filtered);
+    }, [phones, checkedBrands, allSelected, foldableFilter]);
 
     return (
         <SharedStateContext.Provider
@@ -35,6 +48,8 @@ export const SharedStateProvider = ({ children }) => {
                 allSelected,
                 setAllSelected,
                 filteredPhones,
+                foldableFilter,
+                setFoldableFilter,
             }}
         >
             {children}
