@@ -4,10 +4,10 @@ import { useSharedState } from '../SharedStateProvider';
 export default function RamFilter() {
     const { ramFilter, setRamFilter } = useSharedState();
 
-    const ramOptions = [0, 2, 3, 4, 6, 8, 12, 16]; // RAM options
+    const ramOptions = [0, 2, 3, 4, 6, 8, 12, 16]; 
 
     const handleRamChange = (event) => {
-        setRamFilter(parseInt(event.target.value)); // Update shared state
+        setRamFilter(parseInt(event.target.value)); 
     };
 
     const formatRamLabel = (value) => {

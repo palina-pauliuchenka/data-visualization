@@ -8,7 +8,7 @@ export default function YearFilter() {
     const maxYear = 2024;
 
     const handleYearChange = (values) => {
-        setYearFilter(values); // Update shared state with the new range
+        setYearFilter(values);
     };
 
     return (
@@ -21,11 +21,11 @@ export default function YearFilter() {
                 className="horizontal-slider"
                 thumbClassName="slider-thumb"
                 trackClassName="slider-track"
-                value={yearFilter} // Pass the selected range
+                value={yearFilter}
                 min={minYear}
                 max={maxYear}
                 step={1}
-                onChange={handleYearChange} // Update state when values change
+                onChange={handleYearChange} 
                 renderThumb={(props, state) => (
                     <div {...props} className="bg-blue-500 rounded-full w-4 h-4 text-xs flex items-center justify-center">
                         {state.valueNow}

@@ -4,10 +4,10 @@ import { useSharedState } from '../SharedStateProvider';
 export default function StorageFilter() {
     const { storageFilter, setStorageFilter } = useSharedState();
 
-    const storageOptions = [0, 32, 64, 128, 256, 512, 1000]; // Storage options
+    const storageOptions = [0, 32, 64, 128, 256, 512, 1000]; 
 
     const handleStorageChange = (event) => {
-        setStorageFilter(parseInt(event.target.value)); // Update shared state
+        setStorageFilter(parseInt(event.target.value)); 
     };
 
     const formatStorageLabel = (value) => {
