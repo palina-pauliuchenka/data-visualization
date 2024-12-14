@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactSlider from 'react-slider';
 import { useSharedState } from '../SharedStateProvider';
 
 export default function YearFilter() {
@@ -6,13 +7,8 @@ export default function YearFilter() {
     const minYear = 2017;
     const maxYear = 2024;
 
-    const handleYearChange = (event) => {
-        const { name, value } = event.target;
-        if (name === 'min') {
-            setYearFilter([Math.min(parseInt(value), yearFilter[1]), yearFilter[1]]);
-        } else {
-            setYearFilter([yearFilter[0], Math.max(parseInt(value), yearFilter[0])]);
-        }
+    const handleYearChange = (values) => {
+        setYearFilter(values); // Update shared state with the new range
     };
 
     return (
@@ -21,26 +17,24 @@ export default function YearFilter() {
             <div className="text-sm text-gray-500 mb-2">
                 Selected Range: {yearFilter[0]} - {yearFilter[1]}
             </div>
-            <div className="flex items-center gap-4">
-                <input
-                    type="range"
-                    name="min"
-                    min={minYear}
-                    max={maxYear}
-                    value={yearFilter[0]}
-                    onChange={handleYearChange}
-                    className="w-full"
-                />
-                <input
-                    type="range"
-                    name="max"
-                    min={minYear}
-                    max={maxYear}
-                    value={yearFilter[1]}
-                    onChange={handleYearChange}
-                    className="w-full"
-                />
-            </div>
+            <ReactSlider
+                className="horizontal-slider"
+                thumbClassName="slider-thumb"
+                trackClassName="slider-track"
+                value={yearFilter} // Pass the selected range
+                min={minYear}
+                max={maxYear}
+                step={1}
+                onChange={handleYearChange} // Update state when values change
+                renderThumb={(props, state) => (
+                    <div {...props} className="bg-blue-500 rounded-full w-4 h-4 text-xs flex items-center justify-center">
+                        {state.valueNow}
+                    </div>
+                )}
+                renderTrack={(props, state) => (
+                    <div {...props} className={`slider-track ${state.index === 0 ? 'bg-gray-300' : 'bg-blue-500'}`} />
+                )}
+            />
             <div className="flex justify-between text-xs mt-2">
                 {[2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024].map((year) => (
                     <span key={year}>{year}</span>
