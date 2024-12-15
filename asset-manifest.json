@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/palina-pauliuchenka/data-visualization/static/css/main.d9852e87.css",
-    "main.js": "/palina-pauliuchenka/data-visualization/static/js/main.9f7a14cc.js",
-    "static/js/488.a7be18f8.chunk.js": "/palina-pauliuchenka/data-visualization/static/js/488.a7be18f8.chunk.js",
-    "index.html": "/palina-pauliuchenka/data-visualization/index.html",
-    "main.d9852e87.css.map": "/palina-pauliuchenka/data-visualization/static/css/main.d9852e87.css.map",
-    "main.9f7a14cc.js.map": "/palina-pauliuchenka/data-visualization/static/js/main.9f7a14cc.js.map",
-    "488.a7be18f8.chunk.js.map": "/palina-pauliuchenka/data-visualization/static/js/488.a7be18f8.chunk.js.map"
+    "main.css": "/data-visualization/static/css/main.d9852e87.css",
+    "main.js": "/data-visualization/static/js/main.cd784db3.js",
+    "static/js/488.a7be18f8.chunk.js": "/data-visualization/static/js/488.a7be18f8.chunk.js",
+    "index.html": "/data-visualization/index.html",
+    "main.d9852e87.css.map": "/data-visualization/static/css/main.d9852e87.css.map",
+    "main.cd784db3.js.map": "/data-visualization/static/js/main.cd784db3.js.map",
+    "488.a7be18f8.chunk.js.map": "/data-visualization/static/js/488.a7be18f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9852e87.css",
-    "static/js/main.9f7a14cc.js"
+    "static/js/main.cd784db3.js"
   ]
 }
