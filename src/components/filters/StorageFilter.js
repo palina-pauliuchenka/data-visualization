@@ -1,13 +1,14 @@
 import React from 'react';
 import { useSharedState } from '../SharedStateProvider';
+import './styles/Storage.css';
 
 export default function StorageFilter() {
     const { storageFilter, setStorageFilter } = useSharedState();
 
-    const storageOptions = [0, 32, 64, 128, 256, 512, 1000]; 
+    const storageOptions = [0, 32, 64, 128, 256, 512, 1000];
 
     const handleStorageChange = (event) => {
-        setStorageFilter(parseInt(event.target.value)); 
+        setStorageFilter(parseInt(event.target.value));
     };
 
     const formatStorageLabel = (value) => {
@@ -17,12 +18,10 @@ export default function StorageFilter() {
     };
 
     return (
-        <div>
-            <div className={"flex justify-between items-center"}>
-                <label>Storage:</label>
-                <div className="text-sm text-gray-500">
-                    {storageFilter === 0 ? 'All Phones' : formatStorageLabel(storageFilter)}
-                </div>
+        <div className="storage-filter">
+            <label className="filter-title">Storage:</label>
+            <div className="storage-value">
+                {storageFilter === 0 ? 'All Phones' : formatStorageLabel(storageFilter)}
             </div>
             <input
                 type="range"
@@ -30,9 +29,16 @@ export default function StorageFilter() {
                 max="6"
                 step="1"
                 value={storageOptions.indexOf(storageFilter)}
-                onChange={(event) => handleStorageChange({target: {value: storageOptions[event.target.value]}})}
-                className="w-full"
+                onChange={(event) => handleStorageChange({ target: { value: storageOptions[event.target.value] } })}
+                className="storage-slider"
             />
+            <div className="storage-labels">
+                {storageOptions.map((option, index) => (
+                    <span key={option} className="storage-label">
+                        {formatStorageLabel(option)}
+                    </span>
+                ))}
+            </div>
         </div>
     );
 }

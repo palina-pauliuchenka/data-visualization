@@ -1,5 +1,6 @@
 import React from 'react';
 import { useSharedState } from '../SharedStateProvider';
+import './styles/Foldable.css';
 
 export default function FoldableFilter() {
     const { foldableFilter, setFoldableFilter } = useSharedState();
@@ -9,37 +10,40 @@ export default function FoldableFilter() {
     };
 
     return (
-        <div className="">
-            <label className="">Foldable:</label>
-            <div className={"flex items-center gap-4"}>
-                <label className="flex items-center">
+        <div className="foldable-filter">
+            <label className="filter-title">Foldable:</label>
+            <div className="radio-group">
+                <label className="radio-label">
                     <input
                         type="radio"
                         value="Default"
                         checked={foldableFilter === 'Default'}
                         onChange={handleFilterChange}
-                        className="mr-2"
+                        className="hidden-radio"
                     />
+                    <span className="custom-radio"></span>
                     Either
                 </label>
-                <label className="flex items-center">
+                <label className="radio-label">
                     <input
                         type="radio"
                         value="Yes"
                         checked={foldableFilter === 'Yes'}
                         onChange={handleFilterChange}
-                        className="mr-2"
+                        className="hidden-radio"
                     />
+                    <span className="custom-radio"></span>
                     Yes
                 </label>
-                <label className="flex items-center">
+                <label className="radio-label">
                     <input
                         type="radio"
                         value="No"
                         checked={foldableFilter === 'No'}
                         onChange={handleFilterChange}
-                        className="mr-2"
+                        className="hidden-radio"
                     />
+                    <span className="custom-radio"></span>
                     No
                 </label>
             </div>

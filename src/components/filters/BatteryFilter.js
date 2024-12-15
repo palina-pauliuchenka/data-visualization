@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactSlider from 'react-slider';
 import { useSharedState } from '../SharedStateProvider';
+import './styles/Battery.css';
 
 export default function BatteryFilter() {
     const { batteryFilter, setBatteryFilter } = useSharedState();
@@ -10,15 +11,13 @@ export default function BatteryFilter() {
     };
 
     return (
-        <div>
-            <div className={"flex justify-between items-center"}>
-                <label className={"text-sm"}>Battery Capacity</label>
-                <div className="text-sm text-gray-500">
-                    Range: {batteryFilter[0]} mAh - {batteryFilter[1]} mAh
-                </div>
+        <div className="battery-filter">
+            <label className="filter-title">Battery Capacity:</label>
+            <div className="battery-value">
+                {batteryFilter[0]} mAh - {batteryFilter[1]} mAh
             </div>
             <ReactSlider
-                className="horizontal-slider"
+                className="battery-slider"
                 thumbClassName="slider-thumb"
                 trackClassName="slider-track"
                 value={batteryFilter}
@@ -26,21 +25,13 @@ export default function BatteryFilter() {
                 max={11000}
                 step={1000} // Increment by 1000 mAh
                 onChange={handleBatteryChange}
-                renderThumb={(props, state) => (
-                    <div {...props}
-                         className="bg-blue-500 rounded-full w-4 h-4 text-xs flex items-center justify-center">
-                        {state.valueNow} mAh
-                    </div>
+                renderThumb={(props) => (
+                    <div {...props} className="slider-thumb" />
                 )}
-                renderTrack={(props, state) => (
-                    <div {...props} className={`slider-track ${state.index === 0 ? 'bg-gray-300' : 'bg-blue-500'}`}/>
+                renderTrack={(props) => (
+                    <div {...props} className="slider-track" />
                 )}
             />
-            <div className="flex justify-between text-xs mt-2">
-                {[0, 3000, 6000, 9000, 11000].map((capacity) => (
-                    <span key={capacity}>{capacity} mAh</span>
-                ))}
-            </div>
         </div>
     );
 }

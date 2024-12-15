@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactSlider from 'react-slider';
 import { useSharedState } from '../SharedStateProvider';
+import './styles/Price.css';
 
 export default function PriceFilter() {
     const { priceFilter, setPriceFilter } = useSharedState();
@@ -10,15 +11,13 @@ export default function PriceFilter() {
     };
 
     return (
-        <div>
-            <div className={"flex justify-between items-center"}>
-                <label>Price</label>
-                <div className="text-sm text-gray-500">
-                    ${priceFilter[0].toFixed(2)} - ${priceFilter[1].toFixed(2)}
-                </div>
+        <div className="price-filter">
+            <label className="filter-title">Price:</label>
+            <div className="price-value">
+                ${priceFilter[0].toFixed(2)} - ${priceFilter[1].toFixed(2)}
             </div>
             <ReactSlider
-                className="horizontal-slider"
+                className="price-slider"
                 thumbClassName="slider-thumb"
                 trackClassName="slider-track"
                 value={priceFilter}
@@ -27,18 +26,21 @@ export default function PriceFilter() {
                 step={50} // Increment by $50
                 onChange={handlePriceChange}
                 renderThumb={(props, state) => (
-                    <div {...props}
-                         className="bg-blue-500 rounded-full w-4 h-4 text-xs flex items-center justify-center">
-                        ${state.valueNow}
-                    </div>
+                    <div
+                        {...props}
+                        className="slider-thumb"
+                        title={`$${state.valueNow}`}
+                    />
                 )}
-                renderTrack={(props, state) => (
-                    <div {...props} className={`slider-track ${state.index === 0 ? 'bg-gray-300' : 'bg-blue-500'}`}/>
+                renderTrack={(props) => (
+                    <div {...props} className="slider-track" />
                 )}
             />
-            <div className="flex justify-between text-xs mt-2">
+            <div className="price-labels">
                 {[0, 500, 1000, 1500, 2000, 2500].map((price) => (
-                    <span key={price}>${price}</span>
+                    <span key={price} className="price-label">
+                        ${price}
+                    </span>
                 ))}
             </div>
         </div>

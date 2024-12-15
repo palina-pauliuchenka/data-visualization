@@ -1,23 +1,22 @@
 import React from 'react';
 import { useSharedState } from '../SharedStateProvider';
-import './styles/Chipset.css'; // Updated Chipset.css file
 
-export default function ChipsetFilter() {
+export default function ModelFilter() {
     const { chipsetFilter, setChipsetFilter } = useSharedState();
 
     const chipsets = ['All Chipsets', 'Unisoc', 'Qualcomm', 'Mediatek', 'JLQ', 'Google', 'Exynos', 'Apple'];
 
     const handleChipsetChange = (event) => {
-        setChipsetFilter(event.target.value);
+        setChipsetFilter(event.target.value); // Update shared state
     };
 
     return (
-        <div className="chipset-filter">
-            <label className="filter-title">Chipset:</label>
+        <div>
+            <label>Chipset:</label>
             <select
                 value={chipsetFilter}
                 onChange={handleChipsetChange}
-                className="chipset-dropdown"
+                className="w-full mt-2 p-2 border border-gray-300 rounded"
             >
                 {chipsets.map((chipset) => (
                     <option key={chipset} value={chipset}>

@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactSlider from 'react-slider';
 import { useSharedState } from '../SharedStateProvider';
+import './styles/Year.css';
 
 export default function YearFilter() {
     const { yearFilter, setYearFilter } = useSharedState();
@@ -12,15 +13,13 @@ export default function YearFilter() {
     };
 
     return (
-        <div>
-            <div className={"flex justify-between items-center"}>
-                <label>Release Year</label>
-                <div className="text-sm text-gray-500">
-                    Range: {yearFilter[0]} - {yearFilter[1]}
-                </div>
+        <div className="year-filter">
+            <label className="filter-title">Release Year:</label>
+            <div className="year-value">
+                Range: {yearFilter[0]} - {yearFilter[1]}
             </div>
             <ReactSlider
-                className="horizontal-slider"
+                className="year-slider"
                 thumbClassName="slider-thumb"
                 trackClassName="slider-track"
                 value={yearFilter}
@@ -28,19 +27,18 @@ export default function YearFilter() {
                 max={maxYear}
                 step={1}
                 onChange={handleYearChange}
-                renderThumb={(props, state) => (
-                    <div {...props}
-                         className="bg-blue-500 rounded-full w-4 h-4 text-xs flex items-center justify-center">
-                        {state.valueNow}
-                    </div>
+                renderThumb={(props) => (
+                    <div {...props} className="slider-thumb" />
                 )}
-                renderTrack={(props, state) => (
-                    <div {...props} className={`slider-track ${state.index === 0 ? 'bg-gray-300' : 'bg-blue-500'}`}/>
+                renderTrack={(props) => (
+                    <div {...props} className="slider-track" />
                 )}
             />
-            <div className="flex justify-between text-xs mt-2">
+            <div className="year-labels">
                 {[2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024].map((year) => (
-                    <span key={year}>{year}</span>
+                    <span key={year} className="year-label">
+                        {year}
+                    </span>
                 ))}
             </div>
         </div>

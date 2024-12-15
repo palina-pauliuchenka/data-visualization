@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactSlider from 'react-slider';
 import { useSharedState } from '../SharedStateProvider';
+import './styles/Display.css';
 
 export default function DisplayFilter() {
     const { displayFilter, setDisplayFilter } = useSharedState();
@@ -10,15 +11,13 @@ export default function DisplayFilter() {
     };
 
     return (
-        <div>
-            <div className={"flex justify-between items-center"}>
-                <label>Display Size</label>
-                <div className="text-sm text-gray-500">
-                    Range: {displayFilter[0]}" - {displayFilter[1]}"
-                </div>
+        <div className="display-filter">
+            <label className="filter-title">Display Size:</label>
+            <div className="display-value">
+                {displayFilter[0]}" - {displayFilter[1]}"
             </div>
             <ReactSlider
-                className="horizontal-slider"
+                className="display-slider"
                 thumbClassName="slider-thumb"
                 trackClassName="slider-track"
                 value={displayFilter}
@@ -26,18 +25,18 @@ export default function DisplayFilter() {
                 max={12.5}
                 step={0.1} // Increment by 0.1 inches
                 onChange={handleDisplayChange}
-                renderThumb={(props, state) => (
-                    <div {...props} className="bg-blue-500 rounded-full w-4 h-4 text-xs flex items-center justify-center">
-                        {state.valueNow}"
-                    </div>
+                renderThumb={(props) => (
+                    <div {...props} className="slider-thumb" />
                 )}
-                renderTrack={(props, state) => (
-                    <div {...props} className={`slider-track ${state.index === 0 ? 'bg-gray-300' : 'bg-blue-500'}`} />
+                renderTrack={(props) => (
+                    <div {...props} className="slider-track" />
                 )}
             />
-            <div className="flex justify-between text-xs mt-2">
+            <div className="display-labels">
                 {[4.5, 6.0, 8.0, 10.0, 12.5].map((size) => (
-                    <span key={size}>{size}"</span>
+                    <span key={size} className="display-label">
+                        {size}"
+                    </span>
                 ))}
             </div>
         </div>

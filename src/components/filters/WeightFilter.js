@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactSlider from 'react-slider';
 import { useSharedState } from '../SharedStateProvider';
+import './styles/Weight.css';
 
 export default function WeightFilter() {
     const { weightFilter, setWeightFilter } = useSharedState();
@@ -10,15 +11,13 @@ export default function WeightFilter() {
     };
 
     return (
-        <div>
-            <div className={"flex justify-between items-center"}>
-                <label>Weight</label>
-                <div className="text-sm text-gray-500">
-                    Range: {weightFilter[0]}g - {weightFilter[1]}g
-                </div>
+        <div className="weight-filter">
+            <label className="filter-title">Weight:</label>
+            <div className="weight-value">
+                {weightFilter[0]}g - {weightFilter[1]}g
             </div>
             <ReactSlider
-                className="horizontal-slider"
+                className="weight-slider"
                 thumbClassName="slider-thumb"
                 trackClassName="slider-track"
                 value={weightFilter}
@@ -27,18 +26,21 @@ export default function WeightFilter() {
                 step={10} // Increment by 10 grams
                 onChange={handleWeightChange}
                 renderThumb={(props, state) => (
-                    <div {...props}
-                         className="bg-blue-500 rounded-full w-4 h-4 text-xs flex items-center justify-center">
-                        {state.valueNow}g
-                    </div>
+                    <div
+                        {...props}
+                        className="slider-thumb"
+                        title={`${state.valueNow}g`}
+                    />
                 )}
-                renderTrack={(props, state) => (
-                    <div {...props} className={`slider-track ${state.index === 0 ? 'bg-gray-300' : 'bg-blue-500'}`}/>
+                renderTrack={(props) => (
+                    <div {...props} className="slider-track" />
                 )}
             />
-            <div className="flex justify-between text-xs mt-2">
-                {[0, 150, 300, 450, 650].map((weight) => (
-                    <span key={weight}>{weight}g</span>
+            <div className="weight-labels">
+                {[0, 150, 300, 450, 600].map((weight) => (
+                    <span key={weight} className="weight-label">
+                        {weight}g
+                    </span>
                 ))}
             </div>
         </div>

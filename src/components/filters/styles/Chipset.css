@@ -1,0 +1,45 @@
+.chipset-filter {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    background: linear-gradient(to bottom, #f8f9fa, #dee2e6);
+    border: 1px solid #ced4da;
+    border-radius: 8px;
+    max-width: 300px;
+}
+
+.filter-title {
+    font-size: 1.2em;
+    color: black;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.chipset-dropdown {
+    width: 100%;
+    padding: 8px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background: linear-gradient(135deg, pink, black);
+    color: white;
+    font-size: 1em;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    appearance: none;
+    outline: none;
+}
+
+.chipset-dropdown:hover {
+    background: linear-gradient(135deg, #ff99cc, black);
+    color: #fff;
+}
+
+.chipset-dropdown:focus {
+    border-color: pink;
+    box-shadow: 0 0 5px rgba(255, 105, 180, 0.5);
+}
+
+.chipset-dropdown option {
+    background-color: white;
+    color: black;
+    padding: 5px;
+}
