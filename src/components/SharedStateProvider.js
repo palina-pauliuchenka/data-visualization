@@ -13,7 +13,9 @@ export const SharedStateProvider = ({ children }) => {
     const [storageFilter, setStorageFilter] = useState(0);
     const [ramFilter, setRamFilter] = useState(0);
     const [yearFilter, setYearFilter] = useState([2017, 2024]);
-    const [priceFilter, setPriceFilter] = useState([0, 2500]); // New state for price range
+    const [priceFilter, setPriceFilter] = useState([0, 2500]);
+    const [weightFilter, setWeightFilter] = useState([40, 630]);
+    const [displayFilter, setDisplayFilter] = useState([4.5, 12.5]); // New state for display size
 
     // Update filtered phones based on selected filters
     useEffect(() => {
@@ -59,8 +61,37 @@ export const SharedStateProvider = ({ children }) => {
             });
         }
 
+        // Filter by weight range
+        if (weightFilter.length === 2) {
+            const [minWeight, maxWeight] = weightFilter;
+            filtered = filtered.filter((phone) => {
+                const weight = parseFloat(phone.weight);
+                return weight >= minWeight && weight <= maxWeight;
+            });
+        }
+
+        // Filter by display size
+        if (displayFilter.length === 2) {
+            const [minSize, maxSize] = displayFilter;
+            filtered = filtered.filter((phone) => {
+                const size = parseFloat(phone.size);
+                return size >= minSize && size <= maxSize;
+            });
+        }
+
         setFilteredPhones(filtered);
-    }, [phones, checkedBrands, allSelected, foldableFilter, storageFilter, ramFilter, yearFilter, priceFilter]);
+    }, [
+        phones,
+        checkedBrands,
+        allSelected,
+        foldableFilter,
+        storageFilter,
+        ramFilter,
+        yearFilter,
+        priceFilter,
+        weightFilter,
+        displayFilter,
+    ]);
 
     return (
         <SharedStateContext.Provider
@@ -86,6 +117,10 @@ export const SharedStateProvider = ({ children }) => {
                 setYearFilter,
                 priceFilter,
                 setPriceFilter,
+                weightFilter,
+                setWeightFilter,
+                displayFilter,
+                setDisplayFilter,
             }}
         >
             {children}
