@@ -12,10 +12,10 @@ function App() {
         <SharedStateProvider>
             <NavigationMenu />
             <main className={"flex"}>
-                <aside className={""}>
+                <aside className={"p-8 border-r-2 h-[calc(100vh-60px)]"}>
                     <FeatureMenu />
                 </aside>
-                <section id={"dashboard"} className={"flex-1 p-8"}>
+                <section id={"dashboard"} className={"flex-1 p-8 h-[calc(100vh-100px)]"}>
                     <Dashboard />
                 </section>
             </main>

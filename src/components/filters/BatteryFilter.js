@@ -10,10 +10,12 @@ export default function BatteryFilter() {
     };
 
     return (
-        <div className="p-4">
-            <h3 className="font-bold mb-2">Filter by Battery Capacity</h3>
-            <div className="text-sm text-gray-500 mb-2">
-                Selected Range: {batteryFilter[0]} mAh - {batteryFilter[1]} mAh
+        <div>
+            <div className={"flex justify-between items-center"}>
+                <label className={"text-sm"}>Battery Capacity</label>
+                <div className="text-sm text-gray-500">
+                    Range: {batteryFilter[0]} mAh - {batteryFilter[1]} mAh
+                </div>
             </div>
             <ReactSlider
                 className="horizontal-slider"
@@ -25,12 +27,13 @@ export default function BatteryFilter() {
                 step={1000} // Increment by 1000 mAh
                 onChange={handleBatteryChange}
                 renderThumb={(props, state) => (
-                    <div {...props} className="bg-blue-500 rounded-full w-4 h-4 text-xs flex items-center justify-center">
+                    <div {...props}
+                         className="bg-blue-500 rounded-full w-4 h-4 text-xs flex items-center justify-center">
                         {state.valueNow} mAh
                     </div>
                 )}
                 renderTrack={(props, state) => (
-                    <div {...props} className={`slider-track ${state.index === 0 ? 'bg-gray-300' : 'bg-blue-500'}`} />
+                    <div {...props} className={`slider-track ${state.index === 0 ? 'bg-gray-300' : 'bg-blue-500'}`}/>
                 )}
             />
             <div className="flex justify-between text-xs mt-2">

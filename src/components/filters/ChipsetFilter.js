@@ -11,12 +11,12 @@ export default function ChipsetFilter() {
     };
 
     return (
-        <div className="p-4">
-            <h3 className="font-bold mb-2">Filter by Chipset</h3>
+        <div>
+            <label>Chipset:</label>
             <select
                 value={chipsetFilter}
                 onChange={handleChipsetChange}
-                className="w-full p-2 border border-gray-300 rounded"
+                className="w-full mt-2 p-2 border border-gray-300 rounded"
             >
                 {chipsets.map((chipset) => (
                     <option key={chipset} value={chipset}>

@@ -10,10 +10,12 @@ export default function DisplayFilter() {
     };
 
     return (
-        <div className="p-4">
-            <h3 className="font-bold mb-2">Filter by Display Size</h3>
-            <div className="text-sm text-gray-500 mb-2">
-                Selected Range: {displayFilter[0]}" - {displayFilter[1]}"
+        <div>
+            <div className={"flex justify-between items-center"}>
+                <label>Display Size</label>
+                <div className="text-sm text-gray-500">
+                    Range: {displayFilter[0]}" - {displayFilter[1]}"
+                </div>
             </div>
             <ReactSlider
                 className="horizontal-slider"

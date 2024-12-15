@@ -9,10 +9,10 @@ export default function FoldableFilter() {
     };
 
     return (
-        <div className="p-4">
-            <h3 className="font-bold mb-2">Filter by Foldability</h3>
-            <div>
-                <label className="flex items-center mb-2">
+        <div className="">
+            <label className="">Foldable:</label>
+            <div className={"flex items-center gap-4"}>
+                <label className="flex items-center">
                     <input
                         type="radio"
                         value="Default"
@@ -20,9 +20,9 @@ export default function FoldableFilter() {
                         onChange={handleFilterChange}
                         className="mr-2"
                     />
-                    All Phones
+                    Either
                 </label>
-                <label className="flex items-center mb-2">
+                <label className="flex items-center">
                     <input
                         type="radio"
                         value="Yes"
@@ -30,7 +30,7 @@ export default function FoldableFilter() {
                         onChange={handleFilterChange}
                         className="mr-2"
                     />
-                    Foldable
+                    Yes
                 </label>
                 <label className="flex items-center">
                     <input
@@ -40,7 +40,7 @@ export default function FoldableFilter() {
                         onChange={handleFilterChange}
                         className="mr-2"
                     />
-                    Non-Foldable
+                    No
                 </label>
             </div>
         </div>

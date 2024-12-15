@@ -11,18 +11,20 @@ import ChipsetFilter from './filters/ChipsetFilter';
 
 export default function FeatureMenu() {
     return (
-        <aside className="p-4 border-r-2 w-64">
+        <>
             <h3 className="font-bold mb-4">Features</h3>
-            <FoldableFilter />
-            <ChipsetFilter />
-            <StorageFilter />
-            <RamFilter />
-            <YearFilter />
-            <PriceFilter />
-            <WeightFilter />
-            <DisplayFilter />
-            <BatteryFilter />
+            <div className={"flex flex-col gap-8 text-sm"}>
+                <FoldableFilter />
+                <ChipsetFilter />
+                <StorageFilter />
+                <RamFilter />
+                <YearFilter />
+                <PriceFilter />
+                <WeightFilter />
+                <DisplayFilter />
+                <BatteryFilter />
+            </div>
 
-        </aside>
+        </>
     );
 }

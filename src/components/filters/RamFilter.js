@@ -16,25 +16,22 @@ export default function RamFilter() {
     };
 
     return (
-        <div className="p-4">
-            <h3 className="font-bold mb-2">Filter by RAM</h3>
+        <div>
+            <div className={"flex justify-between items-center"}>
+                <label>Filter by RAM</label>
+                <div className="text-sm text-gray-500">
+                    {ramFilter === 0 ? 'All Phones' : formatRamLabel(ramFilter)}
+                </div>
+            </div>
             <input
                 type="range"
                 min="0"
                 max="7"
                 step="1"
                 value={ramOptions.indexOf(ramFilter)}
-                onChange={(event) => handleRamChange({ target: { value: ramOptions[event.target.value] } })}
+                onChange={(event) => handleRamChange({target: {value: ramOptions[event.target.value]}})}
                 className="w-full"
             />
-            <div className="text-sm text-gray-500">
-                Selected: {ramFilter === 0 ? 'All Phones' : formatRamLabel(ramFilter)}
-            </div>
-            <div className="flex justify-between text-xs mt-2">
-                {ramOptions.map((option, index) => (
-                    <span key={index}>{formatRamLabel(option)}</span>
-                ))}
-            </div>
         </div>
     );
 }
