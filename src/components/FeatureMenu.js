@@ -4,8 +4,10 @@ import StorageFilter from './filters/StorageFilter';
 import RamFilter from './filters/RamFilter';
 import YearFilter from './filters/YearFilter';
 import PriceFilter from './filters/PriceFilter';
-import WeightFilter from './filters/WeightFilter'; // Import new component
-import DisplayFilter from './filters/DisplayFilter'; // Import new component
+import WeightFilter from './filters/WeightFilter';
+import DisplayFilter from './filters/DisplayFilter';
+import BatteryFilter from './filters/BatteryFilter';
+import ChipsetFilter from './filters/ChipsetFilter';
 import { useSharedState } from './SharedStateProvider';
 
 export default function FeatureMenu() {
@@ -58,6 +60,8 @@ export default function FeatureMenu() {
             <PriceFilter />
             <WeightFilter />
             <DisplayFilter /> 
+            <BatteryFilter />
+            <ChipsetFilter />
             <ul className="mt-4 flex flex-col gap-2">
                 {filteredFeatures.length > 0 ? (
                     filteredFeatures.map((feature) => (

@@ -14,8 +14,10 @@ export const SharedStateProvider = ({ children }) => {
     const [ramFilter, setRamFilter] = useState(0);
     const [yearFilter, setYearFilter] = useState([2017, 2024]);
     const [priceFilter, setPriceFilter] = useState([0, 2500]);
-    const [weightFilter, setWeightFilter] = useState([40, 630]);
-    const [displayFilter, setDisplayFilter] = useState([4.5, 12.5]); // New state for display size
+    const [weightFilter, setWeightFilter] = useState([0, 630]);
+    const [displayFilter, setDisplayFilter] = useState([4.5, 12.5]);
+    const [batteryFilter, setBatteryFilter] = useState([0, 11000]);
+    const [chipsetFilter, setChipsetFilter] = useState('All Chipsets');
 
     // Update filtered phones based on selected filters
     useEffect(() => {
@@ -70,13 +72,18 @@ export const SharedStateProvider = ({ children }) => {
             });
         }
 
-        // Filter by display size
-        if (displayFilter.length === 2) {
-            const [minSize, maxSize] = displayFilter;
+        // Filter by battery capacity
+        if (batteryFilter.length === 2) {
+            const [minBattery, maxBattery] = batteryFilter;
             filtered = filtered.filter((phone) => {
-                const size = parseFloat(phone.size);
-                return size >= minSize && size <= maxSize;
+                const battery = parseInt(phone.battery);
+                return battery >= minBattery && battery <= maxBattery;
             });
+        }
+
+        // Filter by chipset
+        if (chipsetFilter !== 'All Chipsets') {
+            filtered = filtered.filter((phone) => phone.chipset === chipsetFilter);
         }
 
         setFilteredPhones(filtered);
@@ -91,6 +98,8 @@ export const SharedStateProvider = ({ children }) => {
         priceFilter,
         weightFilter,
         displayFilter,
+        batteryFilter,
+        chipsetFilter,
     ]);
 
     return (
@@ -121,6 +130,10 @@ export const SharedStateProvider = ({ children }) => {
                 setWeightFilter,
                 displayFilter,
                 setDisplayFilter,
+                batteryFilter,
+                setBatteryFilter,
+                chipsetFilter,
+                setChipsetFilter,
             }}
         >
             {children}
